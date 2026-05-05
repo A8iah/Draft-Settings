@@ -1,1 +1,1 @@
-# windows-vscode-run-commands-cheatsheet
+#cheatsheet
