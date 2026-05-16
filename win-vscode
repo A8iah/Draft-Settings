@@ -3,7 +3,6 @@ Ctrl + C — Copy | نسخ | 复制 (fù zhì)
 Ctrl + V — Paste | لصق | 粘贴 (zhān tiē)
 Ctrl + X — Cut | قص | 剪切 (jiǎn qiē)
 Ctrl + A — Select All | تحديد الكل | 全选 (quán xuǎn)
-
 Ctrl + Z — Undo | تراجع | 撤销 (chè xiāo) 
 Ctrl + Y — Redo | إعادة | 重做 (chóng zuò)
 Ctrl + F — Find | بحث | 查找 (chá zhǎo)
@@ -14,22 +13,20 @@ Win + E — File Explorer | فتح الملفات | 文件资源管理器 (wén 
 Alt + Tab — Switch Apps | تبديل البرامج | 切换应用 (qiē huàn yìng yòng)
 Win + R — Run | تشغيل | 运行 (yùn xíng) هنا يقصد فيه انه يطلع لي لسته زي لسته صغيره في اليسار واقدر بعدها ابحث بالاوامر اللي موجوده ويطلع بسرعه 
 Win + S — Search | بحث | 搜索 (sōu suǒ)هنا يطلع لي لسته قائمه من اسفل الجهاز وبعدها اكتب اسم البرنامج وقدر ادخل عليه 
-（我停在这里。）
 Win + Shift + S — Screenshot | تصوير الشاشة | 截图 (jié tú)  
 Win + V — Clipboard History | سجل النسخ | 剪贴板历史 (jiǎn tiē bǎn lì shǐ)
 Win + L — Lock | قفل الجهاز | 锁定 (suǒ dìng)
 Win + Z — Open snap layouts | فتح تقسيم الشاشة الاحترافي | 打开窗口布局 (dǎ kāi chuāng kǒu bù jú)
-
+（我停在这里。）
 Win + I — Open settings | فتح الإعدادات | 打开设置 (dǎ kāi shè zhì)
 Win + X — System tools menu | أدوات النظام | 系统工具菜单 (xì tǒng gōng jù cài dān)
 Win + A — Action center | مركز الإشعارات | 操作中心 (cāo zuò zhōng xīn)
 Win + K — Connect devices | الاتصال بالأجهزة | 连接设备 (lián jiē shè bèi)
-
 Win + Alt + R — Start/stop recording | تسجيل الشاشة | 开始/停止录制 (kāi shǐ / tíng zhǐ lù zhì)
 Win + Ctrl + D — New virtual desktop | إنشاء سطح مكتب جديد | 新建虚拟桌面 (xīn jiàn xū nǐ zhuō miàn)
+
 Win + Ctrl + F4 — Close desktop | إغلاق سطح المكتب | 关闭桌面 (guān bì zhuō miàn)
 Win + , — Peek Desktop | عرض سطح المكتب | 查看桌面 (chá kàn zhuō miàn)
-
 Win + P — Project screen | تغيير الشاشة | 投影屏幕 (tóu yǐng píng mù)
 Win + + — Magnifier zoom in | تكبير الشاشة | 放大 (fàng dà)
 Win + - — Magnifier zoom out | تصغير الشاشة | 缩小 (suō xiǎo)
@@ -39,11 +36,10 @@ Win + Esc — Close magnifier | إغلاق المكبر | 关闭放大镜 (guān
 Ctrl + N — New File | ملف جديد | 新建文件 (xīn jiàn wén jiàn)
 Ctrl + Shift + N — New Window | نافذة جديدة | 新建窗口 (xīn jiàn chuāng kǒu) 
 Ctrl + S — Save | حفظ | 保存 (bǎo cún)
-
 Ctrl + / — Comment | تعليق | 注释 (zhù shì)   
 Ctrl + Shift + P — Command Palette | لوحة الأوامر | 命令面板 (mìng lìng miàn bǎn)
-Ctrl + P — Open File | فتح ملف | 打开文件 (dǎ kāi wén jiàn)
 
+Ctrl + P — Open File | فتح ملف | 打开文件 (dǎ kāi wén jiàn)
 Ctrl + D — Select Next | تحديد التالي | 选择下一个 (xuǎn zé xià yí gè)
 Ctrl + Shift + L — Select All Matches | تحديد الكل | 全选匹配 (quán xuǎn pǐ pèi)
 Alt + ↑ / ↓ — Move Line | تحريك السطر | 移动行 (yí dòng háng)
