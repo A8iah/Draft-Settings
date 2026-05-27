@@ -1,1 +1,35 @@
+Open User Settings JSON  
+{
+    "containers.containerClient": "com.microsoft.visualstudio.containers.docker",
+    "containers.orchestratorClient": "com.microsoft.visualstudio.orchestrators.dockercompose",
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+    "claudeCodeChat.wsl.enabled": false,
+    "claudeCodeChat.wsl.distro": "Ubuntu",
+    "claudeCodeChat.wsl.nodePath": "",
+    "claudeCodeChat.wsl.claudePath": "/usr/local/bin/claude",
+    "claudeCodeChat.executable.path": "c:\\Users\\啊\\AppData\\Roaming\\Code\\User\\globalStorage\\andrepimenta.claude-code-chat\\bin\\claude.exe",
+    "claudeCodeChat.environment.variables": {},
+    "claudeCodeChat.router.enabled": false,
+    "code-runner.runInTerminal": true,
+    "claudeCodeChat.thinking.intensity": "ultrathink",
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.pyc": "default"
+    },
+    "claudeCode.preferredLocation": "panel",
 
+    // ======= إيقاف التصحيح التلقائي ======= on \ true 
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "off",  
+    "editor.parameterHints.enabled": false,
+    "python.analysis.completeFunctionParens": false,
+    "github.copilot.editor.enableAutoCompletions": false,
+    "editor.inlineSuggest.enabled": false
+    // ========================================
+}
