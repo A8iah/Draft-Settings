@@ -35,6 +35,9 @@ Faith in Allah gives me peace. — الإيمان بالله يمنحني الس
 I trust Allah’s plan. — أثق بتدبير الله.
 
 Allah is always with me. — الله معي دائمًا.
+
 I turn to Allah in hard times. — ألجأ إلى الله في الأوقات الصعبة.
+
 Allah guides my heart. — الله يهدي قلبي.
+
 Financial Guarantee ضمان مالي 
