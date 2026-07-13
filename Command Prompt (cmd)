@@ -1,0 +1,16 @@
+# DD-WRT Router Access Commands
+
+172.16.1.111
+
+
+1- telnet ##Enter the router IP address here. (   )   
+
+2- ## Login credentials
+- login: root
+- password: (Router password)
+
+
+
+
+
+## Access the router link here. (Router set-up)
