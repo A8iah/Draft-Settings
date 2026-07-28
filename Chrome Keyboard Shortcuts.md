@@ -1,4 +1,5 @@
-# 🚀 Chrome Keyboard Shortcuts - اختصارات Chrome - Chrome 键盘快捷键 (jiànpán kuàijié jiàn)
+# 🚀 Chrome Keyboard Shortcuts - اختصارات Chrome 
+Chrome 键盘快捷键 (jiànpán kuàijié jiàn)
 
 ---
 
