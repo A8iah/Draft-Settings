@@ -1,7 +1,4 @@
----
-# Windows 与 VS Code 快捷键 (Windows yǔ VS Code kuàijié jiàn)
 
----
 
 <table>
 <tr>
@@ -24,7 +21,7 @@
 <td width="30%"></td>
 <td valign="top" width="40%">
 
-### 📚 Terminology - 术语  <details><summary></summary><span dir="rtl"> المصطلحات </span> shùyǔ </details>
+### 📚 Terminology (Chrome) - 术语  <details><summary></summary><span dir="rtl"> المصطلحات </span> shùyǔ </details>
 
 | English | 中文 |
 |---|---|
