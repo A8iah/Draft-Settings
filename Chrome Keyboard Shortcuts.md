@@ -19,7 +19,7 @@
 | Shortcut (Windows) | English | العربي | 中文 (Pinyin) |
 |---|---|---|---|
 | `Ctrl + T` |  Open new tab | فتح تبويب جديد | 打开新标签页<br>(dǎkāi xīn biāoqiān yè) |
-| `Ctrl + W` |  Close current tab | إغلاق التبويب الحالي | 关闭当前标签页<br>(guānbì dāngqián biāoqiān yè) |
+| `Ctrl + W` |  Close current tab | إغلاق التبويب  | 关闭当前标签页<br>(guānbì dāngqián biāoqiān yè) |
 | `Ctrl + Shift + T` |  Reopen last closed tab | استرجاع آخر تبويب مغلق | 重新打开上次关闭的标签页<br>(chóngxīn dǎkāi shàngcì guānbì de biāoqiān yè) |
 | `Ctrl + Tab` |  Go to next tab | الانتقال للتبويب التالي | 切换到下一个标签页<br>(qiēhuàn dào xià yīgè biāoqiān yè) |
 | `Ctrl + Shift + Tab` |  Go to previous tab | الانتقال للتبويب السابق | 切换到上一个标签页<br>(qiēhuàn dào shàng yīgè biāoqiān yè) |
