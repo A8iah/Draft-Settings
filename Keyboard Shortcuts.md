@@ -10,7 +10,7 @@
 <tr>
 <td valign="top" width="40%">
 
-### 🔹 Common Shortcuts - 常用快捷键 <details><summary></summary><span dir="rtl"> اختصارات مشتركة </span> chángyòng kuàijié jiàn </details>
+## 🔹 Common Shortcuts - 常用快捷键 <details><summary></summary><span dir="rtl"> اختصارات مشتركة </span> chángyòng kuàijié jiàn </details>
 
 | Shortcut | English | 中文 |
 |---|---|---|
