@@ -105,7 +105,8 @@
 
 
 
-📝 ملخص أداة Remote Desktop (mstsc)
+<details>
+<summary>📝 ملخص أداة Remote Desktop (mstsc)
 
 الوظيفة: أداة تخليني أتحكم بجهاز عن بُعد.
 
@@ -116,4 +117,4 @@
 1. يكون Windows Pro أو Enterprise (يدعم استقبال Remote Desktop)
 2. مفعّل الخاصية من: Settings → System → Remote Desktop → On
 3. خاصية Sleep مطفية من أداة الطاقة (powercfg.cpl)
-
+</details>
