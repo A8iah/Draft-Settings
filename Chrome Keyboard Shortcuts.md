@@ -29,22 +29,22 @@
 ## 🪟 Window Shortcuts - اختصارات النوافذ - 窗口快捷键 (chuāngkǒu kuàijié jiàn)
 
 | Shortcut (Windows) | Shortcut (Mac) | English | العربي | 中文 (Pinyin) |
-|---|---|---|---|---|
-| `Ctrl + N` | `Cmd + N` | Open new window | فتح نافذة جديدة | 打开新窗口<br>(dǎkāi xīn chuāngkǒu) |
-| `Ctrl + Shift + N` | `Cmd + Shift + N` | Open incognito window | فتح نافذة تصفح خفي | 打开无痕窗口<br>(dǎkāi wúhén chuāngkǒu) |
+|---|---|---|---|
+| `Ctrl + N` | Open new window | فتح نافذة جديدة | 打开新窗口<br>(dǎkāi xīn chuāngkǒu) |
+| `Ctrl + Shift + N` | Open incognito window | فتح نافذة تصفح خفي | 打开无痕窗口<br>(dǎkāi wúhén chuāngkǒu) |
 
 ---
 
 ## 🔍 Page Shortcuts - اختصارات الصفحة - 页面快捷键 (yèmiàn kuàijié jiàn)
 
-| Shortcut (Windows) | Shortcut (Mac) | English | العربي | 中文 (Pinyin) |
-|---|---|---|---|---|
-| `Ctrl + L` | `Cmd + L` | Focus address bar | الانتقال لشريط العنوان | 聚焦地址栏<br>(jùjiāo dìzhǐ lán) |
-| `Ctrl + F` | `Cmd + F` | Find in page | البحث داخل الصفحة | 在页面中查找<br>(zài yèmiàn zhōng cházhǎo) |
-| `Ctrl + R` / `F5` | `Cmd + R` | Reload page | إعادة تحميل الصفحة | 重新加载页面<br>(chóngxīn jiāzài yèmiàn) |
-| `Ctrl + +` | `Cmd + +` | Zoom in | تكبير الصفحة | 放大页面<br>(fàngdà yèmiàn) |
-| `Ctrl + -` | `Cmd + -` | Zoom out | تصغير الصفحة | 缩小页面<br>(suōxiǎo yèmiàn) |
-| `Ctrl + 0` | `Cmd + 0` | Reset zoom | إرجاع الحجم الطبيعي | 恢复默认缩放<br>(huīfù mòrèn suōfàng) |
+| Shortcut (Windows) | English | العربي | 中文 (Pinyin) |
+|---|---|---|---|
+| `Ctrl + L` | Focus address bar | الانتقال لشريط العنوان | 聚焦地址栏<br>(jùjiāo dìzhǐ lán) |
+| `Ctrl + F` | Find in page | البحث داخل الصفحة | 在页面中查找<br>(zài yèmiàn zhōng cházhǎo) |
+| `Ctrl + R` / `F5` |  Reload page | إعادة تحميل الصفحة | 重新加载页面<br>(chóngxīn jiāzài yèmiàn) |
+| `Ctrl + +` |  Zoom in | تكبير الصفحة | 放大页面<br>(fàngdà yèmiàn) |
+| `Ctrl + -` | Zoom out | تصغير الصفحة | 缩小页面<br>(suōxiǎo yèmiàn) |
+| `Ctrl + 0` | Reset zoom | إرجاع الحجم الطبيعي | 恢复默认缩放<br>(huīfù mòrèn suōfàng) |
 
 ---
 
