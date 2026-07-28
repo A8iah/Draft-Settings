@@ -1,5 +1,5 @@
 
-# How to Change Keyboard Language Shortcut (Windows)
+
 It passed quickly. — مرّ بسرعة.
 
 I stayed calm. — بقيتُ هادئًا.
