@@ -181,3 +181,61 @@
 
 
 
+
+# 🚀 Chrome Keyboard Shortcuts - Chrome 键盘快捷键 <details><summary></summary> jiànpán kuàijié jiàn </details>
+---
+<table>
+<tr>
+<td valign="top" width="40%">
+
+## 📌 Bookmarks Shortcuts - 书签快捷键 <details><summary></summary><span dir="rtl"> اختصارات المفضلة </span> shūqiān kuàijié jiàn </details>
+| Shortcut | English | 中文 |
+|---|---|---|
+| `Ctrl + D` | Bookmark current page <details><summary></summary><span dir="rtl">إضافة الصفحة الحالية للمفضلة</span></details> | 添加书签 <details><summary></summary>(tiānjiā shūqiān)</details> |
+| `Ctrl + Shift + B` | Show/Hide bookmarks bar <details><summary></summary><span dir="rtl">إظهار/إخفاء شريط المفضلة</span></details> | 显示/隐藏书签栏 <details><summary></summary>(xiǎnshì / yǐncáng shūqiān lán)</details> |
+
+</td>
+<td width="30%"></td>
+<td valign="top" width="40%">
+
+## 🗂️ Tabs Shortcuts - 标签页快捷键 <details><summary></summary><span dir="rtl"> اختصارات التبويبات </span> biāoqiān yè kuàijié jiàn </details>
+| Shortcut | English | 中文 |
+|---|---|---|
+| `Ctrl + T` | Open new tab <details><summary></summary><span dir="rtl">فتح تبويب جديد</span></details> | 打开新标签页 <details><summary></summary>(dǎkāi xīn biāoqiān yè)</details> |
+| `Ctrl + W` | Close current tab <details><summary></summary><span dir="rtl">إغلاق التبويب</span></details> | 关闭当前标签页 <details><summary></summary>(guānbì dāngqián biāoqiān yè)</details> |
+| `Ctrl + Shift + T` | Reopen last closed tab <details><summary></summary><span dir="rtl">استرجاع آخر تبويب قفلته</span></details> | 重新打开上次关闭的标签页 <details><summary></summary>(chóngxīn dǎkāi shàngcì guānbì de biāoqiān yè)</details> |
+| `Ctrl + 1` to `Ctrl + 8` | Jump to tab number 1-8 <details><summary></summary><span dir="rtl">الانتقال لتبويب رقم 1 إلى 8</span></details> | 跳转到第1至8个标签页 <details><summary></summary>(tiàozhuǎn dào dì 1 zhì 8 gè biāoqiān yè)</details> |
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td valign="top" width="40%">
+
+## 🪟 Window Shortcuts - 窗口快捷键 <details><summary></summary><span dir="rtl"> اختصارات النوافذ </span> chuāngkǒu kuàijié jiàn </details>
+| Shortcut | English | 中文 |
+|---|---|---|
+| `Ctrl + N` | Open new window <details><summary></summary><span dir="rtl">فتح نافذة جديدة</span></details> | 打开新窗口 <details><summary></summary>(dǎkāi xīn chuāngkǒu)</details> |
+| `Ctrl + Shift + N` | Open incognito window <details><summary></summary><span dir="rtl">فتح نافذة تصفح خفي</span></details> | 打开无痕窗口 <details><summary></summary>(dǎkāi wúhén chuāngkǒu)</details> |
+
+</td>
+<td width="30%"></td>
+<td valign="top" width="40%">
+
+## 🔍 Page Shortcuts - 页面快捷键 <details><summary></summary><span dir="rtl"> اختصارات الصفحة </span> yèmiàn kuàijié jiàn </details>
+| Shortcut | English | 中文 |
+|---|---|---|
+| `Ctrl + L` | Focus address bar <details><summary></summary><span dir="rtl">الانتقال لشريط العنوان</span></details> | 聚焦地址栏 <details><summary></summary>(jùjiāo dìzhǐ lán)</details> |
+| `Ctrl + F` | Find in page <details><summary></summary><span dir="rtl">البحث داخل الصفحة</span></details> | 在页面中查找 <details><summary></summary>(zài yèmiàn zhōng cházhǎo)</details> |
+| `Ctrl + R` / `F5` | Reload page <details><summary></summary><span dir="rtl">إعادة تحميل الصفحة</span></details> | 重新加载页面 <details><summary></summary>(chóngxīn jiāzài yèmiàn)</details> |
+| `Ctrl + +` | Zoom in <details><summary></summary><span dir="rtl">تكبير الصفحة</span></details> | 放大页面 <details><summary></summary>(fàngdà yèmiàn)</details> |
+| `Ctrl + -` | Zoom out <details><summary></summary><span dir="rtl">تصغير الصفحة</span></details> | 缩小页面 <details><summary></summary>(suōxiǎo yèmiàn)</details> |
+| `Ctrl + 0` | Reset zoom <details><summary></summary><span dir="rtl">إرجاع الحجم الطبيعي</span></details> | 恢复默认缩放 <details><summary></summary>(huīfù mòrèn suōfàng)</details> |
+
+</td>
+</tr>
+</table>
