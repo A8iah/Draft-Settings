@@ -41,6 +41,7 @@
 <table>
 <tr>
 <td valign="top" width="40%">
+  
 ### 🔥 Windows Shortcuts (Win) - Windows 快捷键 <details><summary></summary><span dir="rtl"> اختصارات ويندوز </span> Windows kuàijié jiàn </details>
 | Shortcut | English | 中文 |
 |---|---|---|
@@ -67,6 +68,7 @@
 </td>
 <td width="30%"></td>
 <td valign="top" width="40%">
+  
 ### 💻 VS Code Shortcuts - VS Code 快捷键 <details><summary></summary><span dir="rtl"> اختصارات VS Code </span></details>
 | Shortcut | English | 中文 |
 |---|---|---|
