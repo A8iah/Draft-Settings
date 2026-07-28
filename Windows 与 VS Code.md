@@ -74,7 +74,7 @@
 | Command | English | العربي | 中文 (Pinyin) | كيف تصل بدون الأمر |
 |---|---|---|---|---|
 | `cmd` | Command Prompt | موجه الأوامر | 命令提示符<br>(mìng lìng tí shì fú) | Win + R → cmd |
-| `powershell` | PowerShell | باورشيل | PowerShell (微软命令行工具)<br>(wēi ruǎn mìng lìng háng gōng jù) | Win + X → PowerShell |
+| `powershell` | PowerShell | باورشيل | PowerShell (微软命令行工具)<br>(wēi ruǎn mìng lìng háng gōng jù) | Win + R → PowerShell |
 | `taskmgr` | Task Manager | إدارة المهام | 任务管理器<br>(rèn wù guǎn lǐ qì) | Ctrl + Shift + Esc |
 | `appwiz.cpl` | Programs & Features | حذف البرامج | 程序和功能<br>(chéng xù hé gōng néng) | Win + R → appwiz.cpl |
 | `ncpa.cpl` | Network Connections | إعدادات الشبكة | 网络连接<br>(wǎng luò lián jiē) | Win + R → ncpa.cpl |
