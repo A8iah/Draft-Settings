@@ -1,5 +1,3 @@
-
-
 <table>
 <tr>
 <td valign="top" width="40%">
@@ -39,11 +37,44 @@
 </table>
 
 
-
-
-
-
 ---
+
+
+| Shortcut | English | 中文 |
+|---|---|---|
+| `Win + E` | File Explorer <details><summary></summary><span dir="rtl">فتح الملفات</span></details> | 文件资源管理器 <details><summary></summary>(wén jiàn zī yuán guǎn lǐ qì)</details> |
+| `Alt + Tab` | Switch Apps <details><summary></summary><span dir="rtl">تبديل البرامج</span></details> | 切换应用 <details><summary></summary>(qiē huàn yìng yòng)</details> |
+| `Win + R` | Run <details><summary></summary><span dir="rtl">تشغيل (قائمة صغيرة يسار للبحث بالأوامر)</span></details> | 运行 <details><summary></summary>(yùn xíng)</details> |
+| `Win + S` | Search <details><summary></summary><span dir="rtl">بحث (قائمة أسفل الشاشة للبرامج)</span></details> | 搜索 <details><summary></summary>(sōu suǒ)</details> |
+| `Win + Shift + S` | Screenshot <details><summary></summary><span dir="rtl">تصوير الشاشة</span></details> | 截图 <details><summary></summary>(jié tú)</details> |
+| `Win + V` | Clipboard History <details><summary></summary><span dir="rtl">سجل النسخ</span></details> | 剪贴板历史 <details><summary></summary>(jiǎn tiē bǎn lì shǐ)</details> |
+| `Win + L` | Lock <details><summary></summary><span dir="rtl">قفل الجهاز</span></details> | 锁定 <details><summary></summary>(suǒ dìng)</details> |
+| `Win + Z` | Open snap layouts <details><summary></summary><span dir="rtl">فتح تقسيم الشاشة الاحترافي</span></details> | 打开贴靠布局 <details><summary></summary>(dǎ kāi tiē kào bù jú)</details> |
+| `Win + I` | Open settings <details><summary></summary><span dir="rtl">فتح الإعدادات</span></details> | 打开设置 <details><summary></summary>(dǎ kāi shè zhì)</details> |
+| `Win + X` | System tools menu <details><summary></summary><span dir="rtl">أدوات النظام</span></details> | 系统工具菜单 <details><summary></summary>(xì tǒng gōng jù cài dān)</details> |
+| `Win + A` | Action center <details><summary></summary><span dir="rtl">مركز الإشعارات</span></details> | 通知中心 <details><summary></summary>(tōng zhī zhōng xīn)</details> |
+| `Win + K` | Connect devices <details><summary></summary><span dir="rtl">الاتصال بالأجهزة</span></details> | 连接设备 <details><summary></summary>(lián jiē shè bèi)</details> |
+| `Win + Alt + R` | Start/stop recording <details><summary></summary><span dir="rtl">تسجيل الشاشة</span></details> | 开始/停止录制 <details><summary></summary>(kāi shǐ / tíng zhǐ lù zhì)</details> |
+| `Win + Ctrl + D` | New virtual desktop <details><summary></summary><span dir="rtl">إنشاء سطح مكتب جديد</span></details> | 新建虚拟桌面 <details><summary></summary>(xīn jiàn xū nǐ zhuō miàn)</details> |
+| `Win + Ctrl + F4` | Close desktop <details><summary></summary><span dir="rtl">إغلاق سطح المكتب</span></details> | 关闭桌面 <details><summary></summary>(guān bì zhuō miàn)</details> |
+| `Win + ,` | Peek Desktop <details><summary></summary><span dir="rtl">عرض سطح المكتب</span></details> | 查看桌面 <details><summary></summary>(chá kàn zhuō miàn)</details> |
+| `Win + P` | Project screen <details><summary></summary><span dir="rtl">تغيير الشاشة</span></details> | 投影屏幕 <details><summary></summary>(tóu yǐng píng mù)</details> |
+| `Win + +` | Magnifier zoom in <details><summary></summary><span dir="rtl">تكبير الشاشة</span></details> | 放大 <details><summary></summary>(fàng dà)</details> |
+| `Win + -` | Magnifier zoom out <details><summary></summary><span dir="rtl">تصغير الشاشة</span></details> | 缩小 <details><summary></summary>(suō xiǎo)</details> |
+| `Win + Esc` | Close magnifier <details><summary></summary><span dir="rtl">إغلاق المكبر</span></details> | 关闭放大镜 <details><summary></summary>(guān bì fàng dà jìng)</details> |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🔥 Windows Shortcuts - اختصارات ويندوز - Windows 快捷键 (Windows kuàijié jiàn)
 
