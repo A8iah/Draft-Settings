@@ -38,7 +38,9 @@
 
 
 ---
-
+<table>
+<tr>
+<td valign="top" width="40%">
 ### 🔥 Windows Shortcuts (Win) - Windows 快捷键 <details><summary></summary><span dir="rtl"> اختصارات ويندوز </span> Windows kuàijié jiàn </details>
 | Shortcut | English | 中文 |
 |---|---|---|
@@ -62,9 +64,32 @@
 | `Win + +` | Magnifier zoom in <details><summary></summary><span dir="rtl">تكبير الشاشة</span></details> | 放大 <details><summary></summary>(fàng dà)</details> |
 | `Win + -` | Magnifier zoom out <details><summary></summary><span dir="rtl">تصغير الشاشة</span></details> | 缩小 <details><summary></summary>(suō xiǎo)</details> |
 | `Win + Esc` | Close magnifier <details><summary></summary><span dir="rtl">إغلاق المكبر</span></details> | 关闭放大镜 <details><summary></summary>(guān bì fàng dà jìng)</details> |
-
-
-
+</td>
+<td width="30%"></td>
+<td valign="top" width="40%">
+### 💻 VS Code Shortcuts - VS Code 快捷键 <details><summary></summary><span dir="rtl"> اختصارات VS Code </span></details>
+| Shortcut | English | 中文 |
+|---|---|---|
+| `Ctrl + N` | New File <details><summary></summary><span dir="rtl">ملف جديد</span></details> | 新建文件 <details><summary></summary>(xīn jiàn wén jiàn)</details> |
+| `Ctrl + Shift + N` | New Window <details><summary></summary><span dir="rtl">نافذة جديدة</span></details> | 新建窗口 <details><summary></summary>(xīn jiàn chuāng kǒu)</details> |
+| `Ctrl + S` | Save <details><summary></summary><span dir="rtl">حفظ</span></details> | 保存 <details><summary></summary>(bǎo cún)</details> |
+| `Ctrl + Shift + P` | Command Palette <details><summary></summary><span dir="rtl">لوحة الأوامر</span></details> | 命令面板 <details><summary></summary>(mìng lìng miàn bǎn)</details> |
+| `Ctrl + P` | Open File <details><summary></summary><span dir="rtl">فتح ملف</span></details> | 打开文件 <details><summary></summary>(dǎ kāi wén jiàn)</details> |
+| `Ctrl + D` | Select Next Occurrence <details><summary></summary><span dir="rtl">تحديد نفس الكلمة التالية</span></details> | 选择下一个匹配项 <details><summary></summary>(xuǎn zé xià yí gè pǐ pèi xiàng)</details> |
+| `Ctrl + Shift + L` | Select All Matches <details><summary></summary><span dir="rtl">تحديد كل التطابقات</span></details> | 全选匹配 <details><summary></summary>(quán xuǎn pǐ pèi)</details> |
+| `Alt + ↑ / ↓` | Move Line <details><summary></summary><span dir="rtl">تحريك السطر</span></details> | 移动行 <details><summary></summary>(yí dòng háng)</details> |
+| `Shift + Alt + ↓` | Duplicate Line <details><summary></summary><span dir="rtl">نسخ السطر</span></details> | 复制行 <details><summary></summary>(fù zhì háng)</details> |
+| `` Ctrl + ` `` | Terminal <details><summary></summary><span dir="rtl">التيرمنال</span></details> | 终端 <details><summary></summary>(zhōng duān)</details> |
+| `Ctrl + Home` | Start of File <details><summary></summary><span dir="rtl">بداية الملف</span></details> | 文件开头 <details><summary></summary>(wén jiàn kāi tóu)</details> |
+| `Ctrl + End` | End of File <details><summary></summary><span dir="rtl">نهاية الملف</span></details> | 文件结尾 <details><summary></summary>(wén jiàn jié wěi)</details> |
+| `Ctrl + B` | Toggle Sidebar <details><summary></summary><span dir="rtl">إظهار/إخفاء الشريط الجانبي</span></details> | 切换侧边栏 <details><summary></summary>(qiē huàn cè biān lán)</details> |
+| `Ctrl + Tab` | Switch Files <details><summary></summary><span dir="rtl">التنقل بين الملفات</span></details> | 切换文件 <details><summary></summary>(qiē huàn wén jiàn)</details> |
+| `Ctrl + K, Ctrl + T` | Change Theme <details><summary></summary><span dir="rtl">تغيير الثيم</span></details> | 更改主题 <details><summary></summary>(gēng gǎi zhǔ tí)</details> |
+| `Ctrl + Shift + K` | Delete Line <details><summary></summary><span dir="rtl">حذف السطر</span></details> | 删除行 <details><summary></summary>(shān chú háng)</details> |
+| `Shift + Alt + F` | Format Code <details><summary></summary><span dir="rtl">تنسيق الكود</span></details> | 格式化代码 <details><summary></summary>(gé shì huà dài mǎ)</details> |
+</td>
+</tr>
+</table>
 
 
 
