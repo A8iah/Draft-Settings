@@ -1,3 +1,4 @@
+---
 # 🚀 Chrome Keyboard Shortcuts - اختصارات Chrome 
 ---
 
@@ -20,11 +21,8 @@
 |---|---|---|---|
 | `Ctrl + T` |  Open new tab | فتح تبويب جديد | 打开新标签页<br>(dǎkāi xīn biāoqiān yè) |
 | `Ctrl + W` |  Close current tab | إغلاق التبويب  | 关闭当前标签页<br>(guānbì dāngqián biāoqiān yè) |
-| `Ctrl + Shift + T` |  Reopen last closed tab | استرجاع آخر تبويب مغلق | 重新打开上次关闭的标签页<br>(chóngxīn dǎkāi shàngcì guānbì de biāoqiān yè) |
-| `Ctrl + Tab` |  Go to next tab | الانتقال للتبويب التالي | 切换到下一个标签页<br>(qiēhuàn dào xià yīgè biāoqiān yè) |
-| `Ctrl + Shift + Tab` |  Go to previous tab | الانتقال للتبويب السابق | 切换到上一个标签页<br>(qiēhuàn dào shàng yīgè biāoqiān yè) |
+| `Ctrl + Shift + T` |  Reopen last closed tab | استرجاع آخر تبويب قفلته | 重新打开上次关闭的标签页<br>(chóngxīn dǎkāi shàngcì guānbì de biāoqiān yè) |
 | `Ctrl + 1` to `Ctrl + 8` | Jump to tab number 1-8 | الانتقال لتبويب رقم 1 إلى 8 | 跳转到第1至8个标签页<br>(tiàozhuǎn dào dì 1 zhì 8 gè biāoqiān yè) |
-| `Ctrl + 9` |  Jump to last tab | الانتقال لآخر تبويب | 跳转到最后一个标签页<br>(tiàozhuǎn dào zuìhòu yīgè biāoqiān yè) |
 
 ---
 
