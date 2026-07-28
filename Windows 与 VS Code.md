@@ -96,9 +96,8 @@
 | `netplwiz` | User Accounts | حسابات المستخدمين | 用户账户<br>(yòng hù zhàng hù) | Win + R → netplwiz |
 | `lusrmgr.msc` | Local Users | المستخدمون المحليون | 本地用户<br>(běn dì yòng hù) | Win + R → lusrmgr.msc |
 | `secpol.msc` | Security Policy | سياسات الأمان | 安全策略<br>(ān quán cè lüè) | Win + R → secpol.msc |
-| `calc` | Calculator | الآلة الحاسبة | 计算器<br>(jì suàn qì) | Win + R → calc |
 | `mstsc` | Remote Desktop | سطح المكتب البعيد | 远程桌面<br>(yuǎn chéng zhuō miàn) | Win + R → mstsc |
-| `charmap` | Character Map | خريطة الرموز | 字符映射表<br>(zì fú yìng shè biǎo) | Win + R → charmap |
+| `charmap` | Character Map | خريطة الرموز  | 字符映射表<br> 比如 （&<=>）(zì fú yìng shè biǎo) | Win + R → charmap |
 | `shutdown /r /t 0` | Restart | إعادة تشغيل | 重启<br>(chóng qǐ) | Win + X → Restart |
 | `shutdown /s /t 0` | Shutdown | إطفاء الجهاز | 关机<br>(guān jī) | Win + X → Shut down |
 | `logoff` | Log Off | تسجيل خروج | 注销<br>(zhù xiāo) | Win + X → Sign out |
