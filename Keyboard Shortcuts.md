@@ -4,13 +4,10 @@
 ---
 
 
-
 <table>
 <tr>
 <td valign="top" width="40%">
-
-<h2>🔹 Common Shortcuts - 常用快捷键 <details><summary></summary><span dir="rtl">اختصارات مشتركة</span> · chángyòng kuàijié jiàn</details></h2>
-
+## 🔹 Common Shortcuts - 常用快捷键 <details><summary></summary><span dir="rtl"> اختصارات مشتركة </span> chángyòng kuàijié jiàn </details>
 | Shortcut | English | 中文 |
 |---|---|---|
 | `Ctrl + C` | Copy <details><summary></summary><span dir="rtl">نسخ</span></details> | 复制 <details><summary></summary>(fù zhì)</details> |
@@ -21,13 +18,10 @@
 | `Ctrl + Y` | Redo <details><summary></summary><span dir="rtl">إعادة</span></details> | 重做 <details><summary></summary>(chóng zuò)</details> |
 | `Ctrl + F` | Find <details><summary></summary><span dir="rtl">بحث</span></details> | 查找 <details><summary></summary>(chá zhǎo)</details> |
 | `Ctrl + H` | Replace <details><summary></summary><span dir="rtl">استبدال</span></details> | 替换 <details><summary></summary>(tì huàn)</details> |
-
 </td>
 <td width="30%"></td>
 <td valign="top" width="40%">
-
-<h3>📚 Terminology - <details><summary></summary><span dir="rtl">المصطلحات</span> · 术语 (shùyǔ)</details></h3>
-
+### 📚 Terminology - <details><summary></summary><span dir="rtl">المصطلحات</span> · 术语 (shùyǔ)</details>
 | English | 中文 |
 |---|---|
 | Bookmark <details><summary></summary><span dir="rtl">إشارة مرجعية / مفضلة</span></details> | 书签 <details><summary></summary>(shūqiān)</details> |
@@ -38,12 +32,9 @@
 | Tab <details><summary></summary><span dir="rtl">تبويب</span></details> | 标签页 <details><summary></summary>(biāoqiān yè)</details> |
 | Window <details><summary></summary><span dir="rtl">نافذة</span></details> | 窗口 <details><summary></summary>(chuāngkǒu)</details> |
 | Incognito <details><summary></summary><span dir="rtl">تصفح خفي</span></details> | 无痕模式 <details><summary></summary>(wúhén móshì)</details> |
-
 </td>
 </tr>
 </table>
-
-
 
 
 
