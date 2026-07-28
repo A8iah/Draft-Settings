@@ -75,33 +75,33 @@
 |---|---|---|---|---|
 | `cmd` | Command Prompt | موجه الأوامر | 命令提示符<br>(mìng lìng tí shì fú) | Win + R → cmd |
 | `powershell` | PowerShell | باورشيل | PowerShell (微软命令行工具)<br>(wēi ruǎn mìng lìng háng gōng jù) | Win + R → PowerShell |
-| `taskmgr` | Task Manager | إدارة المهام | 任务管理器<br>(rèn wù guǎn lǐ qì) | Ctrl + Shift + Esc |
+| `taskmgr` | 🔥Task Manager | إدارة المهام | 任务管理器<br>(rèn wù guǎn lǐ qì) | Ctrl + Shift + Esc |
 | `appwiz.cpl` | Programs & Features | حذف البرامج | 程序和功能<br>(chéng xù hé gōng néng) | Win + R → appwiz.cpl |
-| `ncpa.cpl` | Network Connections | إعدادات الشبكة | 网络连接<br>(wǎng luò lián jiē) | Win + R → ncpa.cpl |
-| `diskmgmt.msc` | Disk Management | إدارة الأقراص | 磁盘管理<br>(cí pán guǎn lǐ) | Win + X → Disk Management |
-| `devmgmt.msc` | Device Manager | إدارة الأجهزة | 设备管理器<br>(shè bèi guǎn lǐ qì) | Win + X → Device Manager |
-| `sysdm.cpl` | System Properties | خصائص النظام | 系统属性<br>(xì tǒng shǔ xìng) | Win + R → sysdm.cpl |
-| `resmon` | Resource Monitor | مراقبة الموارد | 资源监视器<br>(zī yuán jiān shì qì) | Task Manager → Performance |
-| `perfmon` | Performance Monitor | مراقبة الأداء | 性能监视器<br>(xìng néng jiān shì qì) | Win + R → perfmon |
-| `msinfo32` | System Information | معلومات الجهاز | 系统信息<br>(xì tǒng xìn xī) | Win + R → msinfo32 |
-| `dxdiag` | DirectX Diagnostic Tool | تشخيص كرت الشاشة | DirectX 诊断工具<br>(zhěn duàn gōng jù) | Win + R → dxdiag |
-| `control` | Control Panel | لوحة التحكم | 控制面板<br>(kòng zhì miàn bǎn) | Win + R → control |
-| `inetcpl.cpl` | Internet Options | إعدادات الإنترنت | Internet 选项<br>(xuǎn xiàng) | Win + R → inetcpl.cpl |
-| `firewall.cpl` | Windows Firewall | الجدار الناري | 防火墙<br>(fáng huǒ qiáng) | Win + R → firewall.cpl |
-| `wf.msc` | Advanced Firewall | الجدار الناري المتقدم | 高级防火墙<br>(gāo jí fáng huǒ qiáng) | Win + R → wf.msc |
-| `cleanmgr` | Disk Cleanup | تنظيف القرص | 磁盘清理<br>(cí pán qīng lǐ) | Win + R → cleanmgr |
-| `dfrgui` | Optimize Drives | تحسين الأقراص | 磁盘优化<br>(cí pán yōu huà) | Win + R → dfrgui |
-| `shell:appsfolder` | Apps Folder | جميع التطبيقات | 应用文件夹<br>(yìng yòng wén jiàn jiā) | Win + R → shell:appsfolder |
-| `compmgmt.msc` | Computer Management | إدارة الكمبيوتر | 计算机管理<br>(jì suàn jī guǎn lǐ) | Win + X → Computer Management |
-| `netplwiz` | User Accounts | حسابات المستخدمين | 用户账户<br>(yòng hù zhàng hù) | Win + R → netplwiz |
-| `lusrmgr.msc` | Local Users | المستخدمون المحليون | 本地用户<br>(běn dì yòng hù) | Win + R → lusrmgr.msc |
-| `secpol.msc` | Security Policy | سياسات الأمان | 安全策略<br>(ān quán cè lüè) | Win + R → secpol.msc |
-| `mstsc` | Remote Desktop | سطح المكتب البعيد | 远程桌面<br>(yuǎn chéng zhuō miàn) | Win + R → mstsc |
+| `ncpa.cpl` | 🔥Network Connections | إعدادات الشبكة | 网络连接<br>(wǎng luò lián jiē) | Win + R → ncpa.cpl |
+| `diskmgmt.msc` |🔥 Disk Management | إدارة الأقراص | 磁盘管理<br>(cí pán guǎn lǐ) | Win + X → Disk Management |
+| `devmgmt.msc` |🔥 Device Manager | إدارة الأجهزة | 设备管理器<br>(shè bèi guǎn lǐ qì) | Win + X → Device Manager |
+| `sysdm.cpl` | 🔥System Properties | خصائص النظام | 系统属性<br>(xì tǒng shǔ xìng) | Win + R → sysdm.cpl |
+| `resmon` |🔥 Resource Monitor | مراقبة الموارد | 资源监视器<br>(zī yuán jiān shì qì) | Task Manager → Performance |
+| `perfmon` |🔥 Performance Monitor | مراقبة الأداء | 性能监视器<br>(xìng néng jiān shì qì) | Win + R → perfmon |
+| `msinfo32` |🔥 System Information | معلومات الجهاز | 系统信息<br>(xì tǒng xìn xī) | Win + R → msinfo32 |
+| `dxdiag` | 🔥DirectX Diagnostic Tool | تشخيص كرت الشاشة | DirectX 诊断工具<br>(zhěn duàn gōng jù) | Win + R → dxdiag |
+| `control` | 🔥Control Panel | لوحة التحكم | 控制面板<br>(kòng zhì miàn bǎn) | Win + R → control |
+| `inetcpl.cpl` | 🔥Internet Options | إعدادات الإنترنت | Internet 选项<br>(xuǎn xiàng) | Win + R → inetcpl.cpl |
+| `firewall.cpl` |🔥 Windows Firewall | الجدار الناري | 防火墙<br>(fáng huǒ qiáng) | Win + R → firewall.cpl |
+| `wf.msc` | Advanced Firewall | 🔥الجدار الناري المتقدم | 高级防火墙<br>(gāo jí fáng huǒ qiáng) | Win + R → wf.msc |
+| `cleanmgr` | Disk Cleanup |🔥 تنظيف القرص | 磁盘清理<br>(cí pán qīng lǐ) | Win + R → cleanmgr |
+| `dfrgui` | Optimize Drives | 🔥تحسين الأقراص | 磁盘优化<br>(cí pán yōu huà) | Win + R → dfrgui |
+| `shell:appsfolder` | Apps Folder |🔥 جميع التطبيقات | 应用文件夹<br>(yìng yòng wén jiàn jiā) | Win + R → shell:appsfolder |
+| `compmgmt.msc` | Computer Management |🔥 إدارة الكمبيوتر | 计算机管理<br>(jì suàn jī guǎn lǐ) | Win + X → Computer Management |
+| `netplwiz` | User Accounts |🔥 حسابات المستخدمين | 用户账户<br>(yòng hù zhàng hù) | Win + R → netplwiz |
+| `lusrmgr.msc` | Local Users |🔥 المستخدمون المحليون | 本地用户<br>(běn dì yòng hù) | Win + R → lusrmgr.msc |
+| `secpol.msc` | Security Policy |🔥 سياسات الأمان | 安全策略<br>(ān quán cè lüè) | Win + R → secpol.msc |
+| `mstsc` | Remote Desktop |🔥 سطح المكتب البعيد | 远程桌面<br>(yuǎn chéng zhuō miàn) | Win + R → mstsc |
 | `charmap` | Character Map | خريطة الرموز  | 字符映射表<br> 比如 （&<=>）(zì fú yìng shè biǎo) | Win + R → charmap |
-| `shutdown /r /t 0` | Restart | إعادة تشغيل | 重启<br>(chóng qǐ) | Win + X → Restart |
-| `shutdown /s /t 0` | Shutdown | إطفاء الجهاز | 关机<br>(guān jī) | Win + X → Shut down |
-| `logoff` | Log Off | تسجيل خروج | 注销<br>(zhù xiāo) | Win + X → Sign out |
-| `powercfg.cpl` | Power Options | إعدادات الطاقة | 电源选项<br>(diàn yuán xuǎn xiàng) | Win + R → powercfg.cpl |
+| `shutdown /r /t 0` | Restart | إعادة تشغيل (استخدمه اذا علق عليك حركه المواس) | 重启<br>(chóng qǐ) | Win + X → Restart |
+| `shutdown /s /t 0` | Shutdown |  (استخدمه اذا علق عليك حركه المواس) إطفاء الجهاز | 关机<br>(guān jī) | Win + X → Shut down |
+| `logoff` | Log Off |  (استخدمه اذا علق عليك حركه المواس) تسجيل خروج | 注销<br>(zhù xiāo) | Win + X → Sign out |
+| `powercfg.cpl` |🔥 Power Options | إعدادات الطاقة | 电源选项<br>(diàn yuán xuǎn xiàng) | Win + R → powercfg.cpl |
 
 
 
