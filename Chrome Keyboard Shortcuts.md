@@ -29,7 +29,7 @@
 ## 🪟 Window Shortcuts - اختصارات النوافذ - 窗口快捷键 (chuāngkǒu kuàijié jiàn)
 
 | Shortcut (Windows) | Shortcut (Mac) | English | العربي | 中文 (Pinyin) |
-|---|---|---|---|
+|---|---|---|
 | `Ctrl + N` | Open new window | فتح نافذة جديدة | 打开新窗口<br>(dǎkāi xīn chuāngkǒu) |
 | `Ctrl + Shift + N` | Open incognito window | فتح نافذة تصفح خفي | 打开无痕窗口<br>(dǎkāi wúhén chuāngkǒu) |
 
