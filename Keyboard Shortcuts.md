@@ -7,7 +7,7 @@
 <tr>
 <td valign="top" width="40%">
 
-## 🔹 Common Shortcuts - 常用快捷键 <details><summary></summary><span dir="rtl"> اختصارات مشتركة </span> chángyòng kuàijié jiàn </details>
+### 🔹 Common Shortcuts - 常用快捷键 <details><summary></summary><span dir="rtl"> اختصارات مشتركة </span> chángyòng kuàijié jiàn </details>
 
 | Shortcut | English | 中文 |
 |---|---|---|
@@ -24,7 +24,7 @@
 <td width="30%"></td>
 <td valign="top" width="40%">
 
-### 📚 Terminology - <details><summary></summary><span dir="rtl">المصطلحات</span> · 术语 (shùyǔ)</details>
+### 📚 Terminology - 术语  <details><summary></summary><span dir="rtl"> المصطلحات </span> shùyǔ </details>
 
 | English | 中文 |
 |---|---|
