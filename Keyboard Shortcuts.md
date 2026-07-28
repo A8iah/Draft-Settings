@@ -46,28 +46,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-## 🔹 Common Shortcuts - اختصارات مشتركة - 常用快捷键 (chángyòng kuàijié jiàn)
-
-| Shortcut | English | العربي | 中文 (Pinyin) |
-|---|---|---|---|
-| `Ctrl + C` | Copy | نسخ | 复制<br>(fù zhì) |
-| `Ctrl + V` | Paste | لصق | 粘贴<br>(zhān tiē) |
-| `Ctrl + X` | Cut | قص | 剪切<br>(jiǎn qiē) |
-| `Ctrl + A` | Select All | تحديد الكل | 全选<br>(quán xuǎn) |
-| `Ctrl + Z` | Undo | تراجع | 撤销<br>(chè xiāo) |
-| `Ctrl + Y` | Redo | إعادة | 重做<br>(chóng zuò) |
-| `Ctrl + F` | Find | بحث | 查找<br>(chá zhǎo) |
-| `Ctrl + H` | Replace | استبدال | 替换<br>(tì huàn) |
-
 ---
 
 ## 🔥 Windows Shortcuts - اختصارات ويندوز - Windows 快捷键 (Windows kuàijié jiàn)
@@ -203,18 +181,5 @@
 | `Ctrl + -` | Zoom out | تصغير الصفحة | 缩小页面<br>(suōxiǎo yèmiàn) |
 | `Ctrl + 0` | Reset zoom | إرجاع الحجم الطبيعي | 恢复默认缩放<br>(huīfù mòrèn suōfàng) |
 
----
 
-## 📚 Terminology - المصطلحات - 术语 (shùyǔ)
-
-| English | العربي | 中文 (Pinyin) |
-|---|---|---|
-| Bookmark | إشارة مرجعية / مفضلة | 书签<br>(shūqiān) |
-| Bookmarks Bar | شريط المفضلة | 书签栏<br>(shūqiān lán) |
-| Favorites | المفضلة | 收藏夹 (Edge) / 书签 (Chrome)<br>(shōucáng jiā / shūqiān) |
-| Pinned Tabs | تبويبات مثبّتة | 固定标签页<br>(gùdìng biāoqiān yè) |
-| Favicon | أيقونة الموقع الصغيرة | 网站图标<br>(wǎngzhàn túbiāo) |
-| Tab | تبويب | 标签页<br>(biāoqiān yè) |
-| Window | نافذة | 窗口<br>(chuāngkǒu) |
-| Incognito | تصفح خفي | 无痕模式<br>(wúhén móshì) |
 
