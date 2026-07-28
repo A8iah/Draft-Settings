@@ -102,7 +102,6 @@
 | `shutdown /r /t 0` | Restart | إعادة تشغيل | 重启<br>(chóng qǐ) | Win + X → Restart |
 | `shutdown /s /t 0` | Shutdown | إطفاء الجهاز | 关机<br>(guān jī) | Win + X → Shut down |
 | `logoff` | Log Off | تسجيل خروج | 注销<br>(zhù xiāo) | Win + X → Sign out |
-| `timedate.cpl` | Date & Time | الوقت والتاريخ | 日期和时间<br>(rì qī hé shí jiān) | Win + R → timedate.cpl |
 | `powercfg.cpl` | Power Options | إعدادات الطاقة | 电源选项<br>(diàn yuán xuǎn xiàng) | Win + R → powercfg.cpl |
 
 
