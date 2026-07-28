@@ -63,9 +63,4 @@
 
 ---
 
-## 💡 Top 3 Must-Know Shortcuts - أهم 3 اختصارات - 必学的3个快捷键 (bìxué de 3 gè kuàijié jiàn)
-
-1. `Ctrl + T` → **New tab** — فتح تبويب جديد — 打开新标签页 (dǎkāi xīn biāoqiān yè)
-2. `Ctrl + W` → **Close tab** — إغلاق التبويب — 关闭标签页 (guānbì biāoqiān yè)
-3. `Ctrl + Shift + T` → **Reopen closed tab** — استرجاع آخر تبويب مسكّر — 重新打开关闭的标签页 (chóngxīn dǎkāi guānbì de biāoqiān yè) ⭐
 
