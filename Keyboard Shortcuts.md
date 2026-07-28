@@ -36,8 +36,8 @@
 </tr>
 </table>
 
-
 ---
+
 <table>
 <tr>
 <td valign="top" width="40%">
@@ -94,61 +94,6 @@
 </td>
 </tr>
 </table>
-
-
-
-
-
-
-
-## 🔥 Windows Shortcuts - اختصارات ويندوز - Windows 快捷键 (Windows kuàijié jiàn)
-
-| Shortcut | English | العربي | 中文 (Pinyin) |
-|---|---|---|---|
-| `Win + E` | File Explorer | فتح الملفات | 文件资源管理器<br>(wén jiàn zī yuán guǎn lǐ qì) |
-| `Alt + Tab` | Switch Apps | تبديل البرامج | 切换应用<br>(qiē huàn yìng yòng) |
-| `Win + R` | Run | تشغيل (قائمة صغيرة يسار للبحث بالأوامر) | 运行<br>(yùn xíng) |
-| `Win + S` | Search | بحث (قائمة أسفل الشاشة للبرامج) | 搜索<br>(sōu suǒ) |
-| `Win + Shift + S` | Screenshot | تصوير الشاشة | 截图<br>(jié tú) |
-| `Win + V` | Clipboard History | سجل النسخ | 剪贴板历史<br>(jiǎn tiē bǎn lì shǐ) |
-| `Win + L` | Lock | قفل الجهاز | 锁定<br>(suǒ dìng) |
-| `Win + Z` | Open snap layouts | فتح تقسيم الشاشة الاحترافي | 打开贴靠布局<br>(dǎ kāi tiē kào bù jú) |
-| `Win + I` | Open settings | فتح الإعدادات | 打开设置<br>(dǎ kāi shè zhì) |
-| `Win + X` | System tools menu | أدوات النظام | 系统工具菜单<br>(xì tǒng gōng jù cài dān) |
-| `Win + A` | Action center | مركز الإشعارات | 通知中心<br>(tōng zhī zhōng xīn) |
-| `Win + K` | Connect devices | الاتصال بالأجهزة | 连接设备<br>(lián jiē shè bèi) |
-| `Win + Alt + R` | Start/stop recording | تسجيل الشاشة | 开始/停止录制<br>(kāi shǐ / tíng zhǐ lù zhì) |
-| `Win + Ctrl + D` | New virtual desktop | إنشاء سطح مكتب جديد | 新建虚拟桌面<br>(xīn jiàn xū nǐ zhuō miàn) |
-| `Win + Ctrl + F4` | Close desktop | إغلاق سطح المكتب | 关闭桌面<br>(guān bì zhuō miàn) |
-| `Win + ,` | Peek Desktop | عرض سطح المكتب | 查看桌面<br>(chá kàn zhuō miàn) |
-| `Win + P` | Project screen | تغيير الشاشة | 投影屏幕<br>(tóu yǐng píng mù) |
-| `Win + +` | Magnifier zoom in | تكبير الشاشة | 放大<br>(fàng dà) |
-| `Win + -` | Magnifier zoom out | تصغير الشاشة | 缩小<br>(suō xiǎo) |
-| `Win + Esc` | Close magnifier | إغلاق المكبر | 关闭放大镜<br>(guān bì fàng dà jìng) |
-
----
-
-## 💻 VS Code Shortcuts - اختصارات VS Code - VS Code 快捷键
-
-| Shortcut | English | العربي | 中文 (Pinyin) |
-|---|---|---|---|
-| `Ctrl + N` | New File | ملف جديد | 新建文件<br>(xīn jiàn wén jiàn) |
-| `Ctrl + Shift + N` | New Window | نافذة جديدة | 新建窗口<br>(xīn jiàn chuāng kǒu) |
-| `Ctrl + S` | Save | حفظ | 保存<br>(bǎo cún) |
-| `Ctrl + Shift + P` | Command Palette | لوحة الأوامر | 命令面板<br>(mìng lìng miàn bǎn) |
-| `Ctrl + P` | Open File | فتح ملف | 打开文件<br>(dǎ kāi wén jiàn) |
-| `Ctrl + D` | Select Next Occurrence | تحديد نفس الكلمة التالية | 选择下一个匹配项<br>(xuǎn zé xià yí gè pǐ pèi xiàng) |
-| `Ctrl + Shift + L` | Select All Matches | تحديد كل التطابقات | 全选匹配<br>(quán xuǎn pǐ pèi) |
-| `Alt + ↑ / ↓` | Move Line | تحريك السطر | 移动行<br>(yí dòng háng) |
-| `Shift + Alt + ↓` | Duplicate Line | نسخ السطر | 复制行<br>(fù zhì háng) |
-| `` Ctrl + ` `` | Terminal | التيرمنال | 终端<br>(zhōng duān) |
-| `Ctrl + Home` | Start of File | بداية الملف | 文件开头<br>(wén jiàn kāi tóu) |
-| `Ctrl + End` | End of File | نهاية الملف | 文件结尾<br>(wén jiàn jié wěi) |
-| `Ctrl + B` | Toggle Sidebar | إظهار/إخفاء الشريط الجانبي | 切换侧边栏<br>(qiē huàn cè biān lán) |
-| `Ctrl + Tab` | Switch Files | التنقل بين الملفات | 切换文件<br>(qiē huàn wén jiàn) |
-| `Ctrl + K, Ctrl + T` | Change Theme | تغيير الثيم | 更改主题<br>(gēng gǎi zhǔ tí) |
-| `Ctrl + Shift + K` | Delete Line | حذف السطر | 删除行<br>(shān chú háng) |
-| `Shift + Alt + F` | Format Code | تنسيق الكود | 格式化代码<br>(gé shì huà dài mǎ) |
 
 ---
 
