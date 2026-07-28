@@ -98,7 +98,7 @@
 | `secpol.msc` | Security Policy |🔥 سياسات الأمان | 安全策略<br>(ān quán cè lüè) | Win + R → secpol.msc |
 | `mstsc` | Remote Desktop (You can use TeamViewer ) | <details><summary>📝 ملخص أداة Remote Desktop (mstsc)</summary><b>الوظيفة:</b> أداة تخليني أتحكم بجهاز عن بُعد.<br><b>طريقة الاستخدام:</b><br>- أدخل Username و Password و IP تبع الجهاز الثاني<br><b>شروط الجهاز الثاني (المُستقبِل):</b><br>1. يكون Windows Pro أو Enterprise (يدعم استقبال Remote Desktop)<br>2. مفعّل الخاصية من: Settings → System → Remote Desktop → On<br>3. خاصية Sleep مطفية من أداة الطاقة (powercfg.cpl)</details> سطح المكتب البعيد | 远程桌面<br>(yuǎn chéng zhuō miàn) | Win + R → mstsc |
 | `charmap` | Character Map | خريطة الرموز | 字符映射表<br> 比如 （&<=>）(zì fú yìng shè biǎo) | Win + R → charmap |
-| `shutdown /r /t 0` | Restart | إعادة تشغيل (استخدمه اذا علق عليك حركه المواس او الجهاز بشكل عام) | 重启<br>(chóng qǐ) | Win + X → Restart |
-| `shutdown /s /t 0` | Shutdown | (استخدمه اذا علق عليك حركه المواس او الجهاز بشكل عام) إطفاء الجهاز | 关机<br>(guān jī) | Win + X → Shut down |
-| `logoff` | Log Off | (استخدمه اذا علق عليك حركه المواس او الجهاز بشكل عام) تسجيل خروج | 注销<br>(zhù xiāo) | Win + X → Sign out |
-| `powercfg.cpl` | Power Options | (Never) ( ادخل عليه اذا كانت الشاشة تطفي وأنا اشتغل ادخل وحدد مده الاغلاق او اخليها ) إعدادات الطاقة | 电源选项<br>(diàn yuán xuǎn xiàng) | Win + R → powercfg.cpl |
+| `shutdown /r /t 0` | Restart | <details><summary>إعادة تشغيل</summary>استخدمه اذا علق عليك حركه المواس او الجهاز بشكل عام</details> | 重启<br>(chóng qǐ) | Win + X → Restart |
+| `shutdown /s /t 0` | Shutdown |<details><summary>إطفاء الجهاز</summary>استخدمه اذا علق عليك حركه المواس او الجهاز بشكل عام</details>| 关机<br>(guān jī) | Win + X → Shut down |
+| `logoff` | Log Off | <details><summary>تسجيل خروج</summary>استخدمه اذا علق عليك حركه المواس او الجهاز بشكل عام</details> | 注销<br>(zhù xiāo) | Win + X → Sign out |
+| `powercfg.cpl` | Power Options | <details><summary>إعدادات الطاقة</summary>ادخل عليه اذا كانت الشاشة تطفي وأنا اشتغل، ادخل وحدد مده الاغلاق او اخليها (Never)</details> | 电源选项<br>(diàn yuán xuǎn xiàng) | Win + R → powercfg.cpl |
