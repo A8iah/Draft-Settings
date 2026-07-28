@@ -166,4 +166,15 @@
 | Window | نافذة | 窗口<br>(chuāngkǒu) |
 | Incognito | تصفح خفي | 无痕模式<br>(wúhén móshì) |
 
+
+## 🔹 Common Shortcuts - <details><summary></summary><span dir="rtl">اختصارات مشتركة</span></details> - 常用快捷键 <details><summary></summary>(chángyòng kuàijié jiàn)</details>
+| Shortcut | English | 中文 |
+|---|---|---|
 | `Ctrl + C` | Copy <details><summary></summary><span dir="rtl">نسخ</span></details> | 复制 <details><summary></summary>(fù zhì)</details> |
+| `Ctrl + V` | Paste <details><summary></summary><span dir="rtl">لصق</span></details> | 粘贴 <details><summary></summary>(zhān tiē)</details> |
+| `Ctrl + X` | Cut <details><summary></summary><span dir="rtl">قص</span></details> | 剪切 <details><summary></summary>(jiǎn qiē)</details> |
+| `Ctrl + A` | Select All <details><summary></summary><span dir="rtl">تحديد الكل</span></details> | 全选 <details><summary></summary>(quán xuǎn)</details> |
+| `Ctrl + Z` | Undo <details><summary></summary><span dir="rtl">تراجع</span></details> | 撤销 <details><summary></summary>(chè xiāo)</details> |
+| `Ctrl + Y` | Redo <details><summary></summary><span dir="rtl">إعادة</span></details> | 重做 <details><summary></summary>(chóng zuò)</details> |
+| `Ctrl + F` | Find <details><summary></summary><span dir="rtl">بحث</span></details> | 查找 <details><summary></summary>(chá zhǎo)</details> |
+| `Ctrl + H` | Replace <details><summary></summary><span dir="rtl">استبدال</span></details> | 替换 <details><summary></summary>(tì huàn)</details> |
