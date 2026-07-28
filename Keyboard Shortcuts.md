@@ -41,7 +41,7 @@
 <table>
 <tr>
 <td valign="top" width="40%">
-  
+
 ### 🔥 Windows Shortcuts (Win) - Windows 快捷键 <details><summary></summary><span dir="rtl"> اختصارات ويندوز </span> Windows kuàijié jiàn </details>
 | Shortcut | English | 中文 |
 |---|---|---|
@@ -65,10 +65,11 @@
 | `Win + +` | Magnifier zoom in <details><summary></summary><span dir="rtl">تكبير الشاشة</span></details> | 放大 <details><summary></summary>(fàng dà)</details> |
 | `Win + -` | Magnifier zoom out <details><summary></summary><span dir="rtl">تصغير الشاشة</span></details> | 缩小 <details><summary></summary>(suō xiǎo)</details> |
 | `Win + Esc` | Close magnifier <details><summary></summary><span dir="rtl">إغلاق المكبر</span></details> | 关闭放大镜 <details><summary></summary>(guān bì fàng dà jìng)</details> |
+
 </td>
 <td width="30%"></td>
 <td valign="top" width="40%">
-  
+
 ### 💻 VS Code Shortcuts - VS Code 快捷键 <details><summary></summary><span dir="rtl"> اختصارات VS Code </span></details>
 | Shortcut | English | 中文 |
 |---|---|---|
@@ -89,12 +90,10 @@
 | `Ctrl + K, Ctrl + T` | Change Theme <details><summary></summary><span dir="rtl">تغيير الثيم</span></details> | 更改主题 <details><summary></summary>(gēng gǎi zhǔ tí)</details> |
 | `Ctrl + Shift + K` | Delete Line <details><summary></summary><span dir="rtl">حذف السطر</span></details> | 删除行 <details><summary></summary>(shān chú háng)</details> |
 | `Shift + Alt + F` | Format Code <details><summary></summary><span dir="rtl">تنسيق الكود</span></details> | 格式化代码 <details><summary></summary>(gé shì huà dài mǎ)</details> |
+
 </td>
 </tr>
 </table>
-
-
-
 
 
 
