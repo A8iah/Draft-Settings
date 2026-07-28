@@ -104,8 +104,7 @@
 | `logoff` | Log Off | تسجيل خروج | 注销<br>(zhù xiāo) | Win + X → Sign out |
 | `timedate.cpl` | Date & Time | الوقت والتاريخ | 日期和时间<br>(rì qī hé shí jiān) | Win + R → timedate.cpl |
 | `powercfg.cpl` | Power Options | إعدادات الطاقة | 电源选项<br>(diàn yuán xuǎn xiàng) | Win + R → powercfg.cpl |
-| `desk.cpl` | Display Settings | إعدادات الشاشة | 显示设置<br>(xiǎn shì shè zhì) | Win + R → desk.cpl |
-| `control printers` | Printers | الطابعات | 打印机<br>(dǎ yìn jī) | Win + R → control printers |
+
 
 
 
