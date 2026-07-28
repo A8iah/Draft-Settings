@@ -39,7 +39,7 @@
 
 ---
 
-
+### 🔥 Windows Shortcuts (Win) - Windows 快捷键 <details><summary></summary><span dir="rtl"> اختصارات ويندوز </span> Windows kuàijié jiàn </details>
 | Shortcut | English | 中文 |
 |---|---|---|
 | `Win + E` | File Explorer <details><summary></summary><span dir="rtl">فتح الملفات</span></details> | 文件资源管理器 <details><summary></summary>(wén jiàn zī yuán guǎn lǐ qì)</details> |
@@ -62,7 +62,6 @@
 | `Win + +` | Magnifier zoom in <details><summary></summary><span dir="rtl">تكبير الشاشة</span></details> | 放大 <details><summary></summary>(fàng dà)</details> |
 | `Win + -` | Magnifier zoom out <details><summary></summary><span dir="rtl">تصغير الشاشة</span></details> | 缩小 <details><summary></summary>(suō xiǎo)</details> |
 | `Win + Esc` | Close magnifier <details><summary></summary><span dir="rtl">إغلاق المكبر</span></details> | 关闭放大镜 <details><summary></summary>(guān bì fàng dà jìng)</details> |
-
 
 
 
