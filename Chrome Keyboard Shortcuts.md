@@ -6,8 +6,8 @@
 ## 📌 Bookmarks Shortcuts - اختصارات المفضلة - 书签快捷键 (shūqiān kuàijié jiàn)
 
 | Shortcut (Windows) | English | العربي | 中文 (Pinyin) |
-|---|---|---|---|---|
-| `Ctrl + D` |  Bookmark current page | إضافة الصفحة الحالية للمفضلة | 添加书签<br>(tiānjiā shūqiān) |
+|---|---|---|---|
+| `Ctrl + D` | Bookmark current page | إضافة الصفحة الحالية للمفضلة | 添加书签<br>(tiānjiā shūqiān) |
 | `Ctrl + Shift + B` | Show/Hide bookmarks bar | إظهار/إخفاء شريط المفضلة | 显示/隐藏书签栏<br>(xiǎnshì / yǐncáng shūqiān lán) |
 | `Ctrl + Shift + O` |  Open bookmark manager | فتح مدير المفضلة | 打开书签管理器<br>(dǎkāi shūqiān guǎnlǐ qì) |
 
