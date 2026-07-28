@@ -178,3 +178,15 @@
 | `Ctrl + Y` | Redo <details><summary></summary><span dir="rtl">إعادة</span></details> | 重做 <details><summary></summary>(chóng zuò)</details> |
 | `Ctrl + F` | Find <details><summary></summary><span dir="rtl">بحث</span></details> | 查找 <details><summary></summary>(chá zhǎo)</details> |
 | `Ctrl + H` | Replace <details><summary></summary><span dir="rtl">استبدال</span></details> | 替换 <details><summary></summary>(tì huàn)</details> |
+
+
+## 🔹 Common Shortcuts · 常用快捷键
+<details><summary>Translations</summary>
+
+- <span dir="rtl">اختصارات مشتركة</span>
+- (chángyòng kuàijié jiàn)
+
+</details>
+
+
+## 🔹 Common Shortcuts - 常用快捷键 <details><summary></summary><span dir="rtl">اختصارات مشتركة</span> · (chángyòng kuàijié jiàn)</details>
