@@ -14,15 +14,15 @@
 
 ## 🗂️ Tabs Shortcuts - اختصارات التبويبات - 标签页快捷键 (biāoqiān yè kuàijié jiàn)
 
-| Shortcut (Windows) | Shortcut (Mac) | English | العربي | 中文 (Pinyin) |
-|---|---|---|---|---|
-| `Ctrl + T` | `Cmd + T` | Open new tab | فتح تبويب جديد | 打开新标签页<br>(dǎkāi xīn biāoqiān yè) |
-| `Ctrl + W` | `Cmd + W` | Close current tab | إغلاق التبويب الحالي | 关闭当前标签页<br>(guānbì dāngqián biāoqiān yè) |
-| `Ctrl + Shift + T` | `Cmd + Shift + T` | Reopen last closed tab | استرجاع آخر تبويب مغلق | 重新打开上次关闭的标签页<br>(chóngxīn dǎkāi shàngcì guānbì de biāoqiān yè) |
-| `Ctrl + Tab` | `Cmd + Option + →` | Go to next tab | الانتقال للتبويب التالي | 切换到下一个标签页<br>(qiēhuàn dào xià yīgè biāoqiān yè) |
-| `Ctrl + Shift + Tab` | `Cmd + Option + ←` | Go to previous tab | الانتقال للتبويب السابق | 切换到上一个标签页<br>(qiēhuàn dào shàng yīgè biāoqiān yè) |
-| `Ctrl + 1` to `Ctrl + 8` | `Cmd + 1` to `Cmd + 8` | Jump to tab number 1-8 | الانتقال لتبويب رقم 1 إلى 8 | 跳转到第1至8个标签页<br>(tiàozhuǎn dào dì 1 zhì 8 gè biāoqiān yè) |
-| `Ctrl + 9` | `Cmd + 9` | Jump to last tab | الانتقال لآخر تبويب | 跳转到最后一个标签页<br>(tiàozhuǎn dào zuìhòu yīgè biāoqiān yè) |
+| Shortcut (Windows) | English | العربي | 中文 (Pinyin) |
+|---|---|---|---|
+| `Ctrl + T` |  Open new tab | فتح تبويب جديد | 打开新标签页<br>(dǎkāi xīn biāoqiān yè) |
+| `Ctrl + W` |  Close current tab | إغلاق التبويب الحالي | 关闭当前标签页<br>(guānbì dāngqián biāoqiān yè) |
+| `Ctrl + Shift + T` |  Reopen last closed tab | استرجاع آخر تبويب مغلق | 重新打开上次关闭的标签页<br>(chóngxīn dǎkāi shàngcì guānbì de biāoqiān yè) |
+| `Ctrl + Tab` |  Go to next tab | الانتقال للتبويب التالي | 切换到下一个标签页<br>(qiēhuàn dào xià yīgè biāoqiān yè) |
+| `Ctrl + Shift + Tab` |  Go to previous tab | الانتقال للتبويب السابق | 切换到上一个标签页<br>(qiēhuàn dào shàng yīgè biāoqiān yè) |
+| `Ctrl + 1` to `Ctrl + 8` | Jump to tab number 1-8 | الانتقال لتبويب رقم 1 إلى 8 | 跳转到第1至8个标签页<br>(tiàozhuǎn dào dì 1 zhì 8 gè biāoqiān yè) |
+| `Ctrl + 9` |  Jump to last tab | الانتقال لآخر تبويب | 跳转到最后一个标签页<br>(tiàozhuǎn dào zuìhòu yīgè biāoqiān yè) |
 
 ---
 
