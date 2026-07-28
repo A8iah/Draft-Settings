@@ -167,7 +167,7 @@
 | Incognito | تصفح خفي | 无痕模式<br>(wúhén móshì) |
 
 
-## 🔹 Common Shortcuts - <details><summary></summary><span dir="rtl">اختصارات مشتركة</span></details> - 常用快捷键 <details><summary></summary>(chángyòng kuàijié jiàn)</details>
+## 🔹 Common Shortcuts - 常用快捷键 <details><summary></summary><span dir="rtl">اختصارات مشتركة</span> · (chángyòng kuàijié jiàn)</details>
 | Shortcut | English | 中文 |
 |---|---|---|
 | `Ctrl + C` | Copy <details><summary></summary><span dir="rtl">نسخ</span></details> | 复制 <details><summary></summary>(fù zhì)</details> |
@@ -180,13 +180,4 @@
 | `Ctrl + H` | Replace <details><summary></summary><span dir="rtl">استبدال</span></details> | 替换 <details><summary></summary>(tì huàn)</details> |
 
 
-## 🔹 Common Shortcuts · 常用快捷键
-<details><summary>Translations</summary>
 
-- <span dir="rtl">اختصارات مشتركة</span>
-- (chángyòng kuàijié jiàn)
-
-</details>
-
-
-## 🔹 Common Shortcuts - 常用快捷键 <details><summary></summary><span dir="rtl">اختصارات مشتركة</span> · (chángyòng kuàijié jiàn)</details>
