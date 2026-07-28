@@ -2,7 +2,7 @@
 <tr>
 <td valign="top" width="40%">
 
-### 🔹 Common Shortcuts (Win) - 常用快捷键 <details><summary></summary><span dir="rtl"> اختصارات مشتركة </span> chángyòng kuàijié jiàn </details>
+### 🔹 Common Shortcuts (Win) - 常用快捷键 <details><summary></summary><span dir="rtl"> أختصارات مشتركة </span> chángyòng kuàijié jiàn </details>
 
 | Shortcut | English | 中文 |
 |---|---|---|
@@ -42,7 +42,7 @@
 <tr>
 <td valign="top" width="40%">
 
-### 🔥 Windows Shortcuts (Win) - Windows 快捷键 <details><summary></summary><span dir="rtl"> اختصارات ويندوز </span> Windows kuàijié jiàn </details>
+### 🔥 Windows Shortcuts (Win) - Windows 快捷键 <details><summary></summary><span dir="rtl"> أختصارات ويندوز </span> Windows kuàijié jiàn </details>
 | Shortcut | English | 中文 |
 |---|---|---|
 | `Win + E` | File Explorer <details><summary></summary><span dir="rtl">فتح الملفات</span></details> | 文件资源管理器 <details><summary></summary>(wén jiàn zī yuán guǎn lǐ qì)</details> |
@@ -70,7 +70,7 @@
 <td width="30%"></td>
 <td valign="top" width="40%">
 
-### 💻 VS Code Shortcuts - VS Code 快捷键 <details><summary></summary><span dir="rtl"> اختصارات VS Code </span></details>
+### 💻 VS Code Shortcuts - VS Code 快捷键 <details><summary></summary><span dir="rtl"> أختصارات VS Code </span></details>
 | Shortcut | English | 中文 |
 |---|---|---|
 | `Ctrl + N` | New File <details><summary></summary><span dir="rtl">ملف جديد</span></details> | 新建文件 <details><summary></summary>(xīn jiàn wén jiàn)</details> |
@@ -134,61 +134,13 @@
 
 ---
 
-
-# 🚀 Chrome Keyboard Shortcuts - Chrome 键盘快捷键 (jiànpán kuàijié jiàn)
-
----
-
-## 📌 Bookmarks Shortcuts - اختصارات المفضلة - 书签快捷键 (shūqiān kuàijié jiàn)
-
-| Shortcut (Windows) | English | العربي | 中文 (Pinyin) |
-|---|---|---|---|
-| `Ctrl + D` | Bookmark current page | إضافة الصفحة الحالية للمفضلة | 添加书签<br>(tiānjiā shūqiān) |
-| `Ctrl + Shift + B` | Show/Hide bookmarks bar | إظهار/إخفاء شريط المفضلة | 显示/隐藏书签栏<br>(xiǎnshì / yǐncáng shūqiān lán) |
-
----
-
-## 🗂️ Tabs Shortcuts - اختصارات التبويبات - 标签页快捷键 (biāoqiān yè kuàijié jiàn)
-
-| Shortcut (Windows) | English | العربي | 中文 (Pinyin) |
-|---|---|---|---|
-| `Ctrl + T` |  Open new tab | فتح تبويب جديد | 打开新标签页<br>(dǎkāi xīn biāoqiān yè) |
-| `Ctrl + W` |  Close current tab | إغلاق التبويب  | 关闭当前标签页<br>(guānbì dāngqián biāoqiān yè) |
-| `Ctrl + Shift + T` |  Reopen last closed tab | استرجاع آخر تبويب قفلته | 重新打开上次关闭的标签页<br>(chóngxīn dǎkāi shàngcì guānbì de biāoqiān yè) |
-| `Ctrl + 1` to `Ctrl + 8` | Jump to tab number 1-8 | الانتقال لتبويب رقم 1 إلى 8 | 跳转到第1至8个标签页<br>(tiàozhuǎn dào dì 1 zhì 8 gè biāoqiān yè) |
-
----
-
-## 🪟 Window Shortcuts - اختصارات النوافذ - 窗口快捷键 (chuāngkǒu kuàijié jiàn)
-
-| Shortcut (Windows) | English | العربي | 中文 (Pinyin) |
-|---|---|---|---|
-| `Ctrl + N` | Open new window | فتح نافذة جديدة | 打开新窗口<br>(dǎkāi xīn chuāngkǒu) |
-| `Ctrl + Shift + N` | Open incognito window | فتح نافذة تصفح خفي | 打开无痕窗口<br>(dǎkāi wúhén chuāngkǒu) |
-
----
-
-## 🔍 Page Shortcuts - اختصارات الصفحة - 页面快捷键 (yèmiàn kuàijié jiàn)
-
-| Shortcut (Windows) | English | العربي | 中文 (Pinyin) |
-|---|---|---|---|
-| `Ctrl + L` | Focus address bar | الانتقال لشريط العنوان | 聚焦地址栏<br>(jùjiāo dìzhǐ lán) |
-| `Ctrl + F` | Find in page | البحث داخل الصفحة | 在页面中查找<br>(zài yèmiàn zhōng cházhǎo) |
-| `Ctrl + R` / `F5` |  Reload page | إعادة تحميل الصفحة | 重新加载页面<br>(chóngxīn jiāzài yèmiàn) |
-| `Ctrl + +` |  Zoom in | تكبير الصفحة | 放大页面<br>(fàngdà yèmiàn) |
-| `Ctrl + -` | Zoom out | تصغير الصفحة | 缩小页面<br>(suōxiǎo yèmiàn) |
-| `Ctrl + 0` | Reset zoom | إرجاع الحجم الطبيعي | 恢复默认缩放<br>(huīfù mòrèn suōfàng) |
-
-
-
-
 # 🚀 Chrome Keyboard Shortcuts - Chrome 键盘快捷键 <details><summary></summary> jiànpán kuàijié jiàn </details>
 ---
 <table>
 <tr>
 <td valign="top" width="40%">
 
-## 📌 Bookmarks Shortcuts - 书签快捷键 <details><summary></summary><span dir="rtl"> اختصارات المفضلة </span> shūqiān kuàijié jiàn </details>
+## 📌 Bookmarks Shortcuts - 书签快捷键 <details><summary></summary><span dir="rtl"> أختصارات المفضلة </span> shūqiān kuàijié jiàn </details>
 | Shortcut | English | 中文 |
 |---|---|---|
 | `Ctrl + D` | Bookmark current page <details><summary></summary><span dir="rtl">إضافة الصفحة الحالية للمفضلة</span></details> | 添加书签 <details><summary></summary>(tiānjiā shūqiān)</details> |
@@ -198,7 +150,7 @@
 <td width="30%"></td>
 <td valign="top" width="40%">
 
-## 🗂️ Tabs Shortcuts - 标签页快捷键 <details><summary></summary><span dir="rtl"> اختصارات التبويبات </span> biāoqiān yè kuàijié jiàn </details>
+## 🗂️ Tabs Shortcuts - 标签页快捷键 <details><summary></summary><span dir="rtl"> أختصارات التبويبات </span> biāoqiān yè kuàijié jiàn </details>
 | Shortcut | English | 中文 |
 |---|---|---|
 | `Ctrl + T` | Open new tab <details><summary></summary><span dir="rtl">فتح تبويب جديد</span></details> | 打开新标签页 <details><summary></summary>(dǎkāi xīn biāoqiān yè)</details> |
@@ -216,7 +168,7 @@
 <tr>
 <td valign="top" width="40%">
 
-## 🪟 Window Shortcuts - 窗口快捷键 <details><summary></summary><span dir="rtl"> اختصارات النوافذ </span> chuāngkǒu kuàijié jiàn </details>
+## 🪟 Window Shortcuts - 窗口快捷键 <details><summary></summary><span dir="rtl"> أختصارات النوافذ </span> chuāngkǒu kuàijié jiàn </details>
 | Shortcut | English | 中文 |
 |---|---|---|
 | `Ctrl + N` | Open new window <details><summary></summary><span dir="rtl">فتح نافذة جديدة</span></details> | 打开新窗口 <details><summary></summary>(dǎkāi xīn chuāngkǒu)</details> |
@@ -226,7 +178,7 @@
 <td width="30%"></td>
 <td valign="top" width="40%">
 
-## 🔍 Page Shortcuts - 页面快捷键 <details><summary></summary><span dir="rtl"> اختصارات الصفحة </span> yèmiàn kuàijié jiàn </details>
+## 🔍 Page Shortcuts - 页面快捷键 <details><summary></summary><span dir="rtl"> أختصارات الصفحة </span> yèmiàn kuàijié jiàn </details>
 | Shortcut | English | 中文 |
 |---|---|---|
 | `Ctrl + L` | Focus address bar <details><summary></summary><span dir="rtl">الانتقال لشريط العنوان</span></details> | 聚焦地址栏 <details><summary></summary>(jùjiāo dìzhǐ lán)</details> |
