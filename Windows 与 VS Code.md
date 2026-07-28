@@ -96,7 +96,7 @@
 | `netplwiz` | User Accounts |🔥 حسابات المستخدمين | 用户账户<br>(yòng hù zhàng hù) | Win + R → netplwiz |
 | `lusrmgr.msc` | Local Users |🔥 المستخدمون المحليون | 本地用户<br>(běn dì yòng hù) | Win + R → lusrmgr.msc |
 | `secpol.msc` | Security Policy |🔥 سياسات الأمان | 安全策略<br>(ān quán cè lüè) | Win + R → secpol.msc |
-| `mstsc` | Remote Desktop |🔥 سطح المكتب البعيد | 远程桌面<br>(yuǎn chéng zhuō miàn) | Win + R → mstsc |
+| `mstsc` | Remote Desktop (You can use TeamViewer ) | سطح المكتب البعيد | 远程桌面<br>(yuǎn chéng zhuō miàn) | Win + R → mstsc |
 | `charmap` | Character Map | خريطة الرموز  | 字符映射表<br> 比如 （&<=>）(zì fú yìng shè biǎo) | Win + R → charmap |
 | `shutdown /r /t 0` | Restart | إعادة تشغيل (استخدمه اذا علق عليك حركه المواس او الجهاز بشكل عام) | 重启<br>(chóng qǐ) | Win + X → Restart |
 | `shutdown /s /t 0` | Shutdown |  (استخدمه اذا علق عليك حركه المواس او الجهاز بشكل عام) إطفاء الجهاز | 关机<br>(guān jī) | Win + X → Shut down |
@@ -105,5 +105,15 @@
 
 
 
+📝 ملخص أداة Remote Desktop (mstsc)
 
+الوظيفة: أداة تخليني أتحكم بجهاز عن بُعد.
+
+طريقة الاستخدام:
+- أدخل Username و Password و IP تبع الجهاز الثاني
+
+شروط الجهاز الثاني (المُستقبِل):
+1. يكون Windows Pro أو Enterprise (يدعم استقبال Remote Desktop)
+2. مفعّل الخاصية من: Settings → System → Remote Desktop → On
+3. خاصية Sleep مطفية من أداة الطاقة (powercfg.cpl)
 
