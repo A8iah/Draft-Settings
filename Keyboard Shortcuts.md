@@ -181,7 +181,7 @@
 
 <table>
 <tr>
-<td valign="top" width="37%">
+<td valign="top" width="40%">
 
 ### 📚 Terminology - <details><summary></summary><span dir="rtl">المصطلحات</span> · 术语 (shùyǔ)</details>
 
@@ -197,8 +197,8 @@
 | Incognito <details><summary></summary><span dir="rtl">تصفح خفي</span></details> | 无痕模式 <details><summary></summary>(wúhén móshì)</details> |
 
 </td>
-<td width="25%"></td>
-<td valign="top" width="37%">
+<td width="30%"></td>
+<td valign="top" width="40%">
 
 ### 🔹 Common Shortcuts - <details><summary></summary><span dir="rtl">اختصارات مشتركة</span> · 常用快捷键 (chángyòng kuàijié jiàn)</details>
 
