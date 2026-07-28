@@ -1,4 +1,4 @@
-
+---
 # Windows 与 VS Code 快捷键 (Windows yǔ VS Code kuàijié jiàn)
 
 ---
@@ -107,6 +107,6 @@
 | `desk.cpl` | Display Settings | إعدادات الشاشة | 显示设置<br>(xiǎn shì shè zhì) | Win + R → desk.cpl |
 | `control printers` | Printers | الطابعات | 打印机<br>(dǎ yìn jī) | Win + R → control printers |
 
----
+
 
 
