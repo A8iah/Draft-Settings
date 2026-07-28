@@ -3,6 +3,74 @@
 
 ---
 
+
+<table>
+<tr>
+<td valign="top" width="40%">
+### 📚 Terminology - <details><summary></summary><span dir="rtl">المصطلحات</span> · 术语 (shùyǔ)</details>
+| English | 中文 |
+|---|---|
+| Bookmark <details><summary></summary><span dir="rtl">إشارة مرجعية / مفضلة</span></details> | 书签 <details><summary></summary>(shūqiān)</details> |
+| Bookmarks Bar <details><summary></summary><span dir="rtl">شريط المفضلة</span></details> | 书签栏 <details><summary></summary>(shūqiān lán)</details> |
+| Favorites <details><summary></summary><span dir="rtl">المفضلة</span></details> | 收藏夹 (Edge) / 书签 (Chrome) <details><summary></summary>(shōucáng jiā / shūqiān)</details> |
+| Pinned Tabs <details><summary></summary><span dir="rtl">تبويبات مثبّتة</span></details> | 固定标签页 <details><summary></summary>(gùdìng biāoqiān yè)</details> |
+| Favicon <details><summary></summary><span dir="rtl">أيقونة الموقع الصغيرة</span></details> | 网站图标 <details><summary></summary>(wǎngzhàn túbiāo)</details> |
+| Tab <details><summary></summary><span dir="rtl">تبويب</span></details> | 标签页 <details><summary></summary>(biāoqiān yè)</details> |
+| Window <details><summary></summary><span dir="rtl">نافذة</span></details> | 窗口 <details><summary></summary>(chuāngkǒu)</details> |
+| Incognito <details><summary></summary><span dir="rtl">تصفح خفي</span></details> | 无痕模式 <details><summary></summary>(wúhén móshì)</details> |
+</td>
+<td width="30%"></td>
+<td valign="top" width="40%">
+### 🔹 Common Shortcuts - <details><summary></summary><span dir="rtl">اختصارات مشتركة</span> · 常用快捷键 (chángyòng kuàijié jiàn)</details>
+| Shortcut | English | 中文 |
+|---|---|---|
+| `Ctrl + C` | Copy <details><summary></summary><span dir="rtl">نسخ</span></details> | 复制 <details><summary></summary>(fù zhì)</details> |
+| `Ctrl + V` | Paste <details><summary></summary><span dir="rtl">لصق</span></details> | 粘贴 <details><summary></summary>(zhān tiē)</details> |
+| `Ctrl + X` | Cut <details><summary></summary><span dir="rtl">قص</span></details> | 剪切 <details><summary></summary>(jiǎn qiē)</details> |
+| `Ctrl + A` | Select All <details><summary></summary><span dir="rtl">تحديد الكل</span></details> | 全选 <details><summary></summary>(quán xuǎn)</details> |
+| `Ctrl + Z` | Undo <details><summary></summary><span dir="rtl">تراجع</span></details> | 撤销 <details><summary></summary>(chè xiāo)</details> |
+| `Ctrl + Y` | Redo <details><summary></summary><span dir="rtl">إعادة</span></details> | 重做 <details><summary></summary>(chóng zuò)</details> |
+| `Ctrl + F` | Find <details><summary></summary><span dir="rtl">بحث</span></details> | 查找 <details><summary></summary>(chá zhǎo)</details> |
+| `Ctrl + H` | Replace <details><summary></summary><span dir="rtl">استبدال</span></details> | 替换 <details><summary></summary>(tì huàn)</details> |
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🔹 Common Shortcuts - اختصارات مشتركة - 常用快捷键 (chángyòng kuàijié jiàn)
 
 | Shortcut | English | العربي | 中文 (Pinyin) |
@@ -166,53 +234,3 @@
 | Window | نافذة | 窗口<br>(chuāngkǒu) |
 | Incognito | تصفح خفي | 无痕模式<br>(wúhén móshì) |
 
-
-## 🔹 Common Shortcuts - 常用快捷键 <details><summary></summary><span dir="rtl">اختصارات مشتركة</span> · (chángyòng kuàijié jiàn)</details>
-| Shortcut | English | 中文 |
-|---|---|---|
-| `Ctrl + C` | Copy <details><summary></summary><span dir="rtl">نسخ</span></details> | 复制 <details><summary></summary>(fù zhì)</details> |
-| `Ctrl + V` | Paste <details><summary></summary><span dir="rtl">لصق</span></details> | 粘贴 <details><summary></summary>(zhān tiē)</details> |
-| `Ctrl + X` | Cut <details><summary></summary><span dir="rtl">قص</span></details> | 剪切 <details><summary></summary>(jiǎn qiē)</details> |
-| `Ctrl + A` | Select All <details><summary></summary><span dir="rtl">تحديد الكل</span></details> | 全选 <details><summary></summary>(quán xuǎn)</details> |
-| `Ctrl + Z` | Undo <details><summary></summary><span dir="rtl">تراجع</span></details> | 撤销 <details><summary></summary>(chè xiāo)</details> |
-| `Ctrl + Y` | Redo <details><summary></summary><span dir="rtl">إعادة</span></details> | 重做 <details><summary></summary>(chóng zuò)</details> |
-| `Ctrl + F` | Find <details><summary></summary><span dir="rtl">بحث</span></details> | 查找 <details><summary></summary>(chá zhǎo)</details> |
-| `Ctrl + H` | Replace <details><summary></summary><span dir="rtl">استبدال</span></details> | 替换 <details><summary></summary>(tì huàn)</details> |
-
-<table>
-<tr>
-<td valign="top" width="40%">
-
-### 📚 Terminology - <details><summary></summary><span dir="rtl">المصطلحات</span> · 术语 (shùyǔ)</details>
-
-| English | 中文 |
-|---|---|
-| Bookmark <details><summary></summary><span dir="rtl">إشارة مرجعية / مفضلة</span></details> | 书签 <details><summary></summary>(shūqiān)</details> |
-| Bookmarks Bar <details><summary></summary><span dir="rtl">شريط المفضلة</span></details> | 书签栏 <details><summary></summary>(shūqiān lán)</details> |
-| Favorites <details><summary></summary><span dir="rtl">المفضلة</span></details> | 收藏夹 (Edge) / 书签 (Chrome) <details><summary></summary>(shōucáng jiā / shūqiān)</details> |
-| Pinned Tabs <details><summary></summary><span dir="rtl">تبويبات مثبّتة</span></details> | 固定标签页 <details><summary></summary>(gùdìng biāoqiān yè)</details> |
-| Favicon <details><summary></summary><span dir="rtl">أيقونة الموقع الصغيرة</span></details> | 网站图标 <details><summary></summary>(wǎngzhàn túbiāo)</details> |
-| Tab <details><summary></summary><span dir="rtl">تبويب</span></details> | 标签页 <details><summary></summary>(biāoqiān yè)</details> |
-| Window <details><summary></summary><span dir="rtl">نافذة</span></details> | 窗口 <details><summary></summary>(chuāngkǒu)</details> |
-| Incognito <details><summary></summary><span dir="rtl">تصفح خفي</span></details> | 无痕模式 <details><summary></summary>(wúhén móshì)</details> |
-
-</td>
-<td width="30%"></td>
-<td valign="top" width="40%">
-
-### 🔹 Common Shortcuts - <details><summary></summary><span dir="rtl">اختصارات مشتركة</span> · 常用快捷键 (chángyòng kuàijié jiàn)</details>
-
-| Shortcut | English | 中文 |
-|---|---|---|
-| `Ctrl + C` | Copy <details><summary></summary><span dir="rtl">نسخ</span></details> | 复制 <details><summary></summary>(fù zhì)</details> |
-| `Ctrl + V` | Paste <details><summary></summary><span dir="rtl">لصق</span></details> | 粘贴 <details><summary></summary>(zhān tiē)</details> |
-| `Ctrl + X` | Cut <details><summary></summary><span dir="rtl">قص</span></details> | 剪切 <details><summary></summary>(jiǎn qiē)</details> |
-| `Ctrl + A` | Select All <details><summary></summary><span dir="rtl">تحديد الكل</span></details> | 全选 <details><summary></summary>(quán xuǎn)</details> |
-| `Ctrl + Z` | Undo <details><summary></summary><span dir="rtl">تراجع</span></details> | 撤销 <details><summary></summary>(chè xiāo)</details> |
-| `Ctrl + Y` | Redo <details><summary></summary><span dir="rtl">إعادة</span></details> | 重做 <details><summary></summary>(chóng zuò)</details> |
-| `Ctrl + F` | Find <details><summary></summary><span dir="rtl">بحث</span></details> | 查找 <details><summary></summary>(chá zhǎo)</details> |
-| `Ctrl + H` | Replace <details><summary></summary><span dir="rtl">استبدال</span></details> | 替换 <details><summary></summary>(tì huàn)</details> |
-
-</td>
-</tr>
-</table>
