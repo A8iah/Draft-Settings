@@ -61,6 +61,6 @@
 | Window | نافذة | 窗口<br>(chuāngkǒu) |
 | Incognito | تصفح خفي | 无痕模式<br>(wúhén móshì) |
 
----
+
 
 
