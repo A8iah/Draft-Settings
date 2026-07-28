@@ -104,17 +104,17 @@
 | `powercfg.cpl` | Power Options  | (Never) ( ادخل عليه اذا كانت الشاشة تطفي وأنا اشتغل ادخل وحدد مده الاغلاق او اخليها ) إعدادات الطاقة | 电源选项<br>(diàn yuán xuǎn xiàng) | Win + R → powercfg.cpl |
 
 
-
 <details>
-<summary>📝 ملخص أداة Remote Desktop (mstsc)
+<summary>📝 ملخص أداة Remote Desktop (mstsc)</summary>
 
-الوظيفة: أداة تخليني أتحكم بجهاز عن بُعد.
+**الوظيفة:** أداة تخليني أتحكم بجهاز عن بُعد.
 
-طريقة الاستخدام:
+**طريقة الاستخدام:**
 - أدخل Username و Password و IP تبع الجهاز الثاني
 
-شروط الجهاز الثاني (المُستقبِل):
+**شروط الجهاز الثاني (المُستقبِل):**
 1. يكون Windows Pro أو Enterprise (يدعم استقبال Remote Desktop)
 2. مفعّل الخاصية من: Settings → System → Remote Desktop → On
 3. خاصية Sleep مطفية من أداة الطاقة (powercfg.cpl)
+
 </details>
