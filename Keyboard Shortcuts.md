@@ -98,14 +98,12 @@
 ---
 
 
-
-
 ## 🧩 Run Commands - أوامر التشغيل - 运行命令 (yùn xíng mìng lìng)
 
 | Command | English | العربي | 中文 (Pinyin) |
 |---|---|---|---|
-| `cmd` <details><summary></summary>Win + R → cmd</details> | Command Prompt | موجه الأوامر | 命令提示符<br>(mìng lìng tí shì fú) |
-| `powershell` <details><summary></summary>Win + R → PowerShell</details> | PowerShell | باورشيل | PowerShell (微软命令行工具)<br>(wēi ruǎn mìng lìng háng gōng jù) |
+| `cmd` <details><summary></summary>Win + R → cmd</details> | Command Prompt | موجه الأوامر | 命令提示符 <details><summary></summary>(mìng lìng tí shì fú)</details> |
+| `powershell` <details><summary></summary>Win + R → PowerShell</details> | PowerShell | باورشيل | PowerShell (微软命令行工具) <details><summary></summary>(wēi ruǎn mìng lìng háng gōng jù)</details> |
 | `taskmgr` <details><summary></summary>Ctrl + Shift + Esc</details> | Task Manager <details><summary></summary>A window that shows you everything running on your device right now: programs, hidden processes, and usage of CPU, RAM, Disk, Network, and GPU.<br><br><b>When to use it?</b><br><br><b>1)</b> A program is frozen and not responding 🧊 → <b>End Task</b><br><b>2)</b> The device suddenly became slow 🐌 → see what's eating CPU/RAM<br><b>3)</b> Monitor heavy programs 📊 (Ollama, CodeQL, AFL++)<br><b>4)</b> Stop programs that open automatically with Windows 🚀 → <b>Startup apps</b><br><b>5)</b> Check who's eating the internet 🌐<br><b>6)</b> Detect suspicious processes or viruses 🔍<br><br><b>Important Tabs:</b><br>• <b>Processes</b> — all running programs and processes + their usage<br>• <b>Performance</b> — live graphs for CPU / RAM / Disk / GPU / Network<br>• <b>App history</b> — app usage history<br>• <b>Startup apps</b> — programs that open with Windows startup<br>• <b>Users</b> — who's logged in and their resource usage<br>• <b>Details</b> — deeper technical details for each process<br>• <b>Services</b> — Windows background services</details> | إدارة المهام <details><summary></summary><span dir="rtl">نافذة تعرض لك كل شي شغّال في جهازك الحين: البرامج، العمليات الخفية، واستهلاك المعالج (CPU)، الذاكرة (RAM)، القرص (Disk)، الشبكة (Network)، وكرت الشاشة (GPU).<br><br><b>متى تستخدمها؟</b><br><br><b>1)</b> برنامج معلّق ومايستجيب 🧊 → <b>End Task</b><br><b>2)</b> الجهاز صار بطيء فجأة 🐌 → تشوف مين ياكل CPU/RAM<br><b>3)</b> تراقب أداء برامج ثقيلة 📊 (Ollama, CodeQL, AFL++)<br><b>4)</b> توقف برامج تفتح تلقائياً مع الويندوز 🚀 → <b>Startup apps</b><br><b>5)</b> تشك مين ياكل النت 🌐<br><b>6)</b> كشف عمليات مشبوهة أو فيروسات 🔍<br><br><b>التبويبات المهمة:</b><br>• <b>Processes</b> — كل البرامج والعمليات الشغالة + استهلاكها<br>• <b>Performance</b> — رسوم حية لـ CPU / RAM / Disk / GPU / Network<br>• <b>App history</b> — تاريخ استهلاك التطبيقات<br>• <b>Startup apps</b> — البرامج اللي تفتح مع تشغيل الويندوز<br>• <b>Users</b> — مين مسجّل دخول والموارد اللي يستهلكها<br>• <b>Details</b> — تفاصيل تقنية أعمق لكل عملية<br>• <b>Services</b> — خدمات ويندوز الخلفية</span></details> | 任务管理器 <details><summary></summary>(rèn wù guǎn lǐ qì)</details> |
 | `appwiz.cpl` <details><summary></summary>Win + R → appwiz.cpl</details> | Programs & Features | حذف البرامج | 程序和功能 <details><summary></summary>(chéng xù hé gōng néng)</details> |
 | `ncpa.cpl` <details><summary></summary>Win + R → ncpa.cpl</details> | Network Connections <details><summary></summary>This is the Network Connections tool — an essential tool for managing all network connections on your device.<br><br>It shows you all Network Adapters connected to your device — WiFi, Ethernet, VPN, Bluetooth, Virtual — and lets you manage them and modify their settings.<br><br><b>When to use it?</b><br><br><b>1)</b> Modify IP settings 🌐 (most common)<br><b>2)</b> Disable/Enable a network adapter 🔄<br><b>3)</b> Diagnose network problems 🔍<br><b>4)</b> View connection details 📋<br><b>5)</b> Change DNS 🌐 (important in China)<br><b>6)</b> Rename Adapter 🏷️<br><b>7)</b> Monitor connection speed ⚡</details> | إعدادات الشبكة <details><summary></summary><span dir="rtl">هذي أداة Network Connections (اتصالات الشبكة) — أداة أساسية لإدارة كل اتصالات الشبكة على جهازك.<br><br>هي تعرض لك كل كروت الشبكة (Network Adapters) المتصلة بجهازك — WiFi, Ethernet, VPN, Bluetooth, Virtual — وتقدر تديرها وتعدل إعداداتها.<br><br><b>متى تستخدمها؟</b><br><br><b>1)</b> تعديل إعدادات IP 🌐 (الأشهر)<br><b>2)</b> تعطيل/تفعيل كرت شبكة 🔄<br><b>3)</b> تشخيص مشاكل الشبكة 🔍<br><b>4)</b> معرفة تفاصيل الاتصال 📋<br><b>5)</b> تغيير DNS 🌐 (مهم في الصين)<br><b>6)</b> إعادة تسمية Adapter 🏷️<br><b>7)</b> مراقبة سرعة الاتصال ⚡</span></details> | 网络连接 <details><summary></summary>(wǎng luò lián jiē)</details> |
@@ -133,18 +131,6 @@
 | `shutdown /s /t 0` <details><summary></summary>Win + X → Shut down</details> | Shutdown <details><summary></summary>Use it if the mouse movement or the device in general is stuck</details> | إطفاء الجهاز <details><summary></summary><span dir="rtl">استخدمه اذا علق عليك حركه المواس او الجهاز بشكل عام</span></details> | 关机 <details><summary></summary>(guān jī)</details> |
 | `logoff` <details><summary></summary>Win + X → Sign out</details> | Log Off <details><summary></summary>Use it if the mouse movement or the device in general is stuck</details> | تسجيل خروج <details><summary></summary><span dir="rtl">استخدمه اذا علق عليك حركه المواس او الجهاز بشكل عام</span></details> | 注销 <details><summary></summary>(zhù xiāo)</details> |
 | `powercfg.cpl` <details><summary></summary>Win + R → powercfg.cpl</details> | Power Options <details><summary></summary>Enter it if the screen turns off while I'm working, enter and specify the shutdown period or leave it (Never)</details> | إعدادات الطاقة <details><summary></summary><span dir="rtl">ادخل عليه اذا كانت الشاشة تطفي وأنا اشتغل، ادخل وحدد مده الاغلاق او اخليها (Never)</span></details> | 电源选项 <details><summary></summary>(diàn yuán xuǎn xiàng)</details> |
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
