@@ -23,6 +23,3 @@
 | Financial Guarantee | <details><summary></summary><span dir="rtl">ضمان مالي</span></details> |
 
 
-
-Get-LocalGroupMember -Group "Administrators"
-icacls "C:\Users\Att11"
