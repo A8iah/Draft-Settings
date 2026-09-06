@@ -23,5 +23,3 @@
 | Financial Guarantee | <details><summary></summary><span dir="rtl">ضمان مالي</span></details> |
 
 
-Get-Process | Where-Object {$_.Path -like "*chengruijie1*"} | Stop-Process -Force
-Remove-Item -Recurse -Force "C:\Users\chengruijie1\.vscode-server"
