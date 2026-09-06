@@ -23,5 +23,3 @@
 | Financial Guarantee | <details><summary></summary><span dir="rtl">ضمان مالي</span></details> |
 
 
-ssh chengruijie1@[240c:c983:1:2160::9cc]
-dir C:\Users\Att11
