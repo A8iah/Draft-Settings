@@ -23,8 +23,3 @@
 | Financial Guarantee | <details><summary></summary><span dir="rtl">ضمان مالي</span></details> |
 
 
-Get-Process node,code* -ErrorAction SilentlyContinue | Stop-Process -Force
-Start-Sleep 3
-takeown /F "C:\Users\chengruijie1\.vscode-server" /R /D Y
-icacls "C:\Users\chengruijie1\.vscode-server" /grant Administrators:F /T /C
-Remove-Item -Recurse -Force "C:\Users\chengruijie1\.vscode-server"
