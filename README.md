@@ -21,9 +21,3 @@
 | I turn to Allah in hard times. | <details><summary></summary><span dir="rtl">ألجأ إلى الله في الأوقات الصعبة.</span></details> |
 | Allah guides my heart. | <details><summary></summary><span dir="rtl">الله يهدي قلبي.</span></details> |
 | Financial Guarantee | <details><summary></summary><span dir="rtl">ضمان مالي</span></details> |
-
-
-Get-Process node -ErrorAction SilentlyContinue | Stop-Process -Force
-Get-Process code* -ErrorAction SilentlyContinue | Stop-Process -Force
-Start-Sleep -Seconds 3
-Remove-Item -Recurse -Force "C:\Users\chengruijie1\.vscode-server"
