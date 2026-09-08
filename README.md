@@ -22,5 +22,3 @@
 | Allah guides my heart. | <details><summary></summary><span dir="rtl">الله يهدي قلبي.</span></details> |
 | Financial Guarantee | <details><summary></summary><span dir="rtl">ضمان مالي</span></details> |
 
-
-I wrote the code exactly as you provided it, without running the test myself. You can now access my Visual Studio Code account to run the experiment; as I mentioned, I have the 3090 card available. You can start the test, provide me with the final proposal/results, and save the resulting code to my GitHub account so I can refer back to it later. It is important that you keep the output for future reference. At the same time, please provide the final proposal so I can send it to the professor. Also, don't forget to use the command ( no CU )
