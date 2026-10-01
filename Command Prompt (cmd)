@@ -1,15 +1,10 @@
-
 sudo apt update
 
 sudo apt install telnet
 
-# DD-WRT Router Access Commands
-
-
 
 1- telnet ##Enter the router IP address here. (   )   
 
-2- ## Login credentials
 - login: root
 - password: (Router password)
 
@@ -18,4 +13,4 @@ echo "nameserver DNS的IP" > /etc/resolv.conf
 
 nslookup astroutercn.com
 
-## Access the router link here. (Router set-up)
+
