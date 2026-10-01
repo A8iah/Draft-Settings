@@ -9,7 +9,8 @@
 - password: (Router password)
 
 
+echo "nameserver DNS的IP" > /etc/resolv.conf
 
-
+nslookup astroutercn.com
 
 ## Access the router link here. (Router set-up)
