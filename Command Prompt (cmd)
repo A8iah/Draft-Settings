@@ -1,7 +1,9 @@
-
+```bash
 sudo apt update
+```
+```bash
 sudo apt install telnet
-
+```
 # DD-WRT Router Access Commands
 
 
@@ -14,7 +16,7 @@ sudo apt install telnet
 
 
 echo "nameserver DNS的IP" > /etc/resolv.conf
-
+```bash
 nslookup astroutercn.com
-
+```
 ## Access the router link here. (Router set-up)
