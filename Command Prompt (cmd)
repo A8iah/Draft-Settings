@@ -1,3 +1,7 @@
+
+sudo apt update
+sudo apt install telnet
+
 # DD-WRT Router Access Commands
 
 
