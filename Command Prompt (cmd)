@@ -1,16 +1,26 @@
+```
 sudo apt update
+```
+更新软件列表。装东西之前先运行。✅ 安全
 
+```
 sudo apt install telnet
+```
+安装 telnet 工具（用来连路由器）。✅ 安全
 
-
-1- telnet ##Enter the router IP address here. (   )   
-
+```
+telnet 路由器IP地址
+```
+连路由器。把 IP 换成你路由器的地址。连上后用下面的账号登录。✅ 安全
 - login: root
-- password: (Router password)
+- password: 路由器密码
 
-
+```
 echo "nameserver DNS的IP" > /etc/resolv.conf
+```
+⚠️ 改 DNS 设置。把 "DNS的IP" 换成真的 DNS 地址。注意：重启后可能会被覆盖。
 
+```
 nslookup astroutercn.com
-
-
+```
+查这个网址的 IP，测试 DNS 工作不工作。✅ 安全
